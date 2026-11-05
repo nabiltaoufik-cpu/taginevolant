@@ -1,25 +1,72 @@
-name: Actualiser la revue de presse
+name: Actualiser les actualités
 on:
-  schedule:
-    - cron: '15 6 * * *'
-    - cron: '15 11 * * *'
-    - cron: '15 16 * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '15 6,11,16 * * *'
 permissions:
   contents: write
 jobs:
-  update:
+  actualites:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - name: Collecter les flux
-        run: python scripts/update.py
-      - name: Publier les données
+      - name: Collecter les titres et images RSS
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          mkdir -p data/archive
+          python3 - <<'PY'
+          import urllib.request, urllib.parse, xml.etree.ElementTree as ET
+          import json, re, html
+          from datetime import datetime, timezone
+          from email.utils import parsedate_to_datetime
+          from pathlib import Path
+          feeds=[("Maroc","Maroc actualités"),("Monde","international actualités"),("Économie","économie Maroc monde"),("Société","société Maroc"),("Technologies","technologie intelligence artificielle"),("Environnement","environnement climat"),("Culture","culture Maroc monde"),("Sport","sport Maroc monde")]
+          def image_of(node):
+              for el in node.iter():
+                  tag=el.tag.lower().split('}')[-1]
+                  if tag in ('thumbnail','content','enclosure'):
+                      url=el.attrib.get('url','')
+                      typ=el.attrib.get('type','')
+                      if url.startswith('https://') or url.startswith('http://'):
+                          if tag=='thumbnail' or typ.startswith('image/') or re.search(r'\.(jpg|jpeg|png|webp)(\?|$)',url,re.I):
+                              return url
+              desc=html.unescape(node.findtext('description',''))
+              m=re.search(r'<img\b[^>]*\bsrc=["\'](https?://[^"\']+)',desc,re.I)
+              return html.unescape(m.group(1)) if m else None
+          items=[];seen=set()
+          for category,query in feeds:
+              params=urllib.parse.urlencode({'q':query+' when:1d','hl':'fr','gl':'MA','ceid':'MA:fr'})
+              try:
+                  req=urllib.request.Request('https://news.google.com/rss/search?'+params,headers={'User-Agent':'Mozilla/5.0'})
+                  with urllib.request.urlopen(req,timeout=20) as response: root=ET.fromstring(response.read())
+                  for entry in root.findall('.//item')[:12]:
+                      title=entry.findtext('title','').strip();link=entry.findtext('link','').strip()
+                      if not title or not link:continue
+                      key=re.sub(r'\W+','',title.lower())[:90]
+                      if key in seen:continue
+                      seen.add(key)
+                      source=entry.find('source')
+                      desc=html.unescape(re.sub(r'<[^>]+>',' ',entry.findtext('description','')))
+                      desc=re.sub(r'\s+',' ',desc).strip()
+                      try: published=parsedate_to_datetime(entry.findtext('pubDate','')).isoformat()
+                      except: published=datetime.now(timezone.utc).isoformat()
+                      items.append({'title':title,'description':desc[:400],'url':link,'source':source.text if source is not None else 'Google News','category':category,'published':published,'image':image_of(entry)})
+              except Exception as exc:print('Flux indisponible:',category,exc)
+          if not items:raise RuntimeError('Aucune actualité collectée')
+          items.sort(key=lambda x:x['published'],reverse=True)
+          now=datetime.now(timezone.utc)
+          edition={'updated':now.isoformat(),'items':items[:60]}
+          Path('data/latest.json').write_text(json.dumps(edition,ensure_ascii=False,indent=2),encoding='utf-8')
+          Path('data/archive/'+now.strftime('%Y-%m-%d')+'.json').write_text(json.dumps(edition,ensure_ascii=False,indent=2),encoding='utf-8')
+          days=sorted((p.stem for p in Path('data/archive').glob('*.json')),reverse=True)
+          Path('data/archive-index.json').write_text(json.dumps(days,ensure_ascii=False),encoding='utf-8')
+          print(len(items),'actualités ;',sum(bool(x['image']) for x in items),'images trouvées')
+          PY
+      - name: Enregistrer
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
-          if ! git diff --cached --quiet; then git commit -m 'Mise à jour automatique de la revue'; git push; fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualisation RSS et images"
+            git push
+          fi

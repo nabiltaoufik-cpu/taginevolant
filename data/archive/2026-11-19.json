@@ -1,49 +1,382 @@
 {
-  "updated": "2026-11-19T15:45:13.644214+00:00",
+  "updated": "2026-11-19T23:03:37.622015+00:00",
   "items": [
     {
-      "title": "Le Bloc québécois présente un projet de loi anti-reculs climatiques - Le Devoir",
-      "description": "Le Bloc québécois présente un projet de loi anti-reculs climatiques Le Devoir",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEFZM1FwUTdwVjlzdWQxZ19kV0Zzc1QyTEtDZzFLRjQ3Q3NRaVdxY0tZaEkwLW1qV3ZUS2JlNVNabFEzc1ptLUhCdHJjd19MXzZnd0U1RTNJUlF4VVZEZzRzQWxBQTV1Qi1PaGtTcm1NQUJJYkFCOWJnQ0FyaDF6ZUtFdE1iRlRnYlZnd1Q1SFBtb1UySERDaUV6LWUyazZSLVNfZlBXMGZtalVj?oc=5",
-      "source": "Le Devoir",
-      "category": "Environnement",
-      "published": "2026-11-19T15:40:41+00:00",
+      "title": "Coupe du Monde U17 – Qatar 2026 : En route pour une meilleure performance des Lionceaux - lopinion.ma",
+      "description": "Coupe du Monde U17 – Qatar 2026 : En route pour une meilleure performance des Lionceaux lopinion.ma",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORWNyMWNFVXJWWlF3RWxWeS1QUVNJX2poai1DWkh0bDRpX3hzRE9mb2djODhWYng0R1dwbmZmekI3cmIxcFFrbEtKQ1lXY0E4UzdTWjVCRjhhLVhtdEdSRFhIUUxPdVQxa29Jb2hVb2M3UXhpRDdtMWxjSDdybklmbV9IRksyYUczWVJSMzFoZm9vbnBkbjhDUW00MW4zQnhuOUhmYUxySnFUOF9xdlpWTlZmZHM4RVp1aTNpSlRvZFB3LWZZNndXRmF1Tl9FNGg2dTVmWDFfM0ZXNUc2cVI1aDluVDNUeTVpeUVyRTBmU2hFaTV5YU0xQ1FJQlpDQldCdTg1SQ?oc=5",
+      "source": "lopinion.ma",
+      "category": "Sport",
+      "published": "2026-11-19T22:37:20+00:00",
       "image": null
     },
     {
-      "title": "Parlement numérique : le Maroc parmi les références mondiales selon l’UIP - EcoActu",
-      "description": "Parlement numérique : le Maroc parmi les références mondiales selon l’UIP EcoActu",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wc0RfZVlDRlBKQnNOOGJGRlJ1R2p2Wk9yeXNkeG80RjRUNUtIOXdpelJKbG9DekFBWTlXYzdQQkpiT0FQcjZjeWdVZmpyY25VVExNNDlpSGc4MTEzOTFEX0dEOVJoeHM0QmZyNW1qU0NmZFlRZ2ZpUk93?oc=5",
-      "source": "EcoActu",
+      "title": "Arabie saoudite: Le plus haut gratte-ciel de Ryad touché par un missile houthi - Journal Chrétien",
+      "description": "Arabie saoudite: Le plus haut gratte-ciel de Ryad touché par un missile houthi Journal Chrétien",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BTjZmTTJsOTZGSm8xWmkzUi1UU1Z4NzRWX2Zkb3hsajhuX25NOC0xMDc2Q3lFZFlYODlxOG01cDNzeVpjNE1QTlVzYWVIWXZDRWdUenBoYWllU2lSTU0zc0phSF8wN081eDhnY3pMUXg4aEVERHo1SUN1SElBWk0?oc=5",
+      "source": "Journal Chrétien",
+      "category": "Monde",
+      "published": "2026-11-19T22:30:57+00:00",
+      "image": null
+    },
+    {
+      "title": "Val d’Argent. S’adapter au changement climatique : un atelier de concertation le mardi 1er décembre - DNA.fr",
+      "description": "Val d’Argent. S’adapter au changement climatique : un atelier de concertation le mardi 1er décembre DNA.fr",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNTRoVFV5alRic1UzNTBQbXlxNHo3VXpFTlNoenoxOVc2dXotVE5LVWk0UjAtLVE5Nm5LOEpTMFVCemJ2a2lJRlRkazZEUllraHRicFcwYUpwTVZUYm92QmN2c2M2UjNwaS10M1AzdTg4cVZrRVNHRHZUcnVCNTNsSENFa01zMXYyR3djd3VTVms2dTQ1WjRrckVmWF9tT0hVZzU2dWZ0bWJta2QwZ1p6ZUdvT1NXQkpUNTFzSGlzLUtSbG95aGc?oc=5",
+      "source": "DNA.fr",
+      "category": "Environnement",
+      "published": "2026-11-19T22:24:08+00:00",
+      "image": null
+    },
+    {
+      "title": "Baromètre : climat et mauvaise entente - L’actualité",
+      "description": "Baromètre : climat et mauvaise entente L’actualité",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10N0RoeFJBaUQwd01aLTMzZVJOSW5kdDlJS3JDSnNMbG52aklJMmxyeDFUVzBpTEVYN0dKeFJMeDBJeXpuVUJ6dDQ4dmpSalQ5T29xT0JGbm9tV0hQQjJQclJueENWWEV1akZjRmFidXh5MjNGRFRDcUpR?oc=5",
+      "source": "L’actualité",
+      "category": "Environnement",
+      "published": "2026-11-19T22:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "L’arbitre international algérien Youcef Gamouh est mort à 39 ans - Yahoo Actualités",
+      "description": "L’arbitre international algérien Youcef Gamouh est mort à 39 ans Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZEpTS0d1QTVVN2M3NjZxQ3RsenkxNWx4aVc3VEI2ZThQUGpTRkxZelZ6X2dXdUtjRHBTOVQ3dkNwWFh1RFltUnMyOTZDdUpSdFJMcmZSODNSYV8zaVZOQW84WlYwRVR0M2IwYjVTVUdRVjlhNk91dUxSdnlxU21FbkRKdFRPdmVfaWljNmd3eFlpdW5zdWc?oc=5",
+      "source": "Yahoo Actualités",
+      "category": "Monde",
+      "published": "2026-11-19T21:59:39+00:00",
+      "image": null
+    },
+    {
+      "title": "Dans la Somme, il est tombé l'équivalent \"d'un mois et demi de pluie\" en trois jours, selon le directeur de Météo Climat Pro - franceinfo",
+      "description": "Dans la Somme, il est tombé l'équivalent \"d'un mois et demi de pluie\" en trois jours, selon le directeur de Météo Climat Pro franceinfo",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPd3ctZ0J2MDVQQTd1Wm1hcllRMTM1R3pQQmxjM1dzQ2lRR3BkV1RLMGVpRGpIWFZVYm80d0RsaU9KaG54cDdOTll0VTctcmJOMXZnc1l2QUt4OTdFT3RFQ1c4bmYzSnpsU3BvZnh0QUFKVVRfLXFhWFdCcjJhVDhEcXBMa3EtME1lNHVSZnJPQU96TzB0dURYaWxKZy04Nk9qS1VMeEtiX0pXc3UtSGxwQXRUUmlGVlFXVWEwX3ZxSEtmZTFjSFV0VzdSSFdqQ1NwMUdXNzM2Mll5N3RDbGxnbFM4TnBtc1JuanNaM21QRm4tb2VhekJjaVRNSnVhRG42TGQyRkVXUXVmcDJySS1FQmVKdF9naXpHLUZNRXBHV0xmdXpOWmZoVENleDhzX0VPWndHb3RwWHJUbG90ak41TURoMmJFMGdUc2dfODRNQQ?oc=5",
+      "source": "franceinfo",
+      "category": "Environnement",
+      "published": "2026-11-19T21:56:50+00:00",
+      "image": null
+    },
+    {
+      "title": "Le Maroc et le Mexique renforcent leur coopération économique dans le secteur automobile et d'autres secteurs d'activité - Atalayar",
+      "description": "Le Maroc et le Mexique renforcent leur coopération économique dans le secteur automobile et d'autres secteurs d'activité Atalayar",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQazhtanBiUXQ0TnFaVjR6eGtZajl3dmFROHZoN3NZaV9MUDVzZUtLV29ES0VUVWFhQWJLLXY4Rk9tcEpxbFJMSDJzNlpsR2MwdnNkTnFEeU96Rk9UcWs5RlRZMnpwY3dNUkxxRUQ3NUlrLWlLNnF0T0NXcFB6bEViYnAwd1p3Q0UzSFo0WTdUZDY1blZQT2VkZHhUM2FGR2dpZDBXdWlGd1V3U0lqcjZlZmt2YjgtdVplbUZCSF9RNW52UTBXYnBSSy1aLUpHRFdkVlVSQkxfUnR5aWhKcFh0ZVF2cW52YmVmcGU3STFUUGpIcnBBZDd4eDRMXzJld2oxQ3VRYUlQcVZVa0FUODI4WktiQk5kQQ?oc=5",
+      "source": "Atalayar",
+      "category": "Société",
+      "published": "2026-11-19T21:42:52+00:00",
+      "image": null
+    },
+    {
+      "title": "Washington | Devant des universitaires américains, M. Amrani présente les dernières évolutions du dossier du Sahara marocain - Le Reporter.ma",
+      "description": "Washington | Devant des universitaires américains, M. Amrani présente les dernières évolutions du dossier du Sahara marocain Le Reporter.ma",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlN6Sk9xX3RJeVBaZ095OWRMXy1IdHNmdEpoN1E0ZVZwM2RDdHVkbjBhak5wUkozcjRMNWE4NC1fQmdNbjZhYVA1dWRZdVFoZ2JDa3A0TGJZTTBlalNRTXBCNmtDUkVxM0N4M2t6TFJNQjR6cXZJSlNEdVU1SE5EZVB0dEZoQjNobV9QUEUxSWkzb25HZDRmVTUzY0RWUVZJNW05TjBfWF9lVHNXT2hMSVhqRXA3dndzdVlicEctUk8zLUxRTUFXcjZ6UWFKZUY5QWtaaHNzWEVMdnZXbk5RYg?oc=5",
+      "source": "Le Reporter.ma",
+      "category": "Maroc",
+      "published": "2026-11-19T21:08:02+00:00",
+      "image": null
+    },
+    {
+      "title": "COP31 sur le climat : les énergies fossiles retirées du projet de décision finale - France 24",
+      "description": "COP31 sur le climat : les énergies fossiles retirées du projet de décision finale France 24",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVncyYlRlNEM3VjdrYlNKaUhqZVNCWGFEMmdBVHBMMmNyOWlwWE50a0dIUTZHNXE3c2lCWl9PaUw3Um54QTZsZ1JBTUFMeVJBRE16YlNKYnRCSUpsczVpUnRVcXg0QWhjTjhVYnlyQ0FJWG9XRXhPOFBJOURTa3l6bXlBdmh1WldFa2FQeTJ2emRZM0lnYWdBVmF4RS1QVHlmRzBJTGM4OU9aYXFMZ0ZCejZqakZTdGt0ZVk2UnJ1eFJaMWxZdWc?oc=5",
+      "source": "France 24",
+      "category": "Environnement",
+      "published": "2026-11-19T21:06:06+00:00",
+      "image": null
+    },
+    {
+      "title": "« On est en train de perdre la bataille » : l’IA offre aux prédateurs de nouveaux moyens d’exploiter les enfants - UN News",
+      "description": "« On est en train de perdre la bataille » : l’IA offre aux prédateurs de nouveaux moyens d’exploiter les enfants UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91SE1CS3gxdm1uVEk5bFF5ZFlGUW1yX0tWSGJkQUt2Y2c5SXZpOXAta1FrbUN5VS1YRzdNT0VPdnNXbHNsSUx3a2xERFc2b295WV85MTk2VQ?oc=5",
+      "source": "UN News",
+      "category": "Technologies",
+      "published": "2026-11-19T20:59:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Justice: le Maroc et la France scellent à Rabat un accord intégrant l’IA - H24info",
+      "description": "Justice: le Maroc et la France scellent à Rabat un accord intégrant l’IA H24info",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUVVcGkxWjlWbW1sak45WlBjb3MtcXBOajVqNUpxNmNXVlNrdkViMEl3TUVaQ0kwcjZIby1XUGxySDItTzdtc3dTNXRtRU5ldFdnWVRmTktPM01PUHdha01OcDZiV3JWT0FZR3BxM1RSaF8xMzh4NjhkcXhHbHZ5N1hQOGxkcHg1SHNubi1MVE1nVXZacS1OVm9kUFY?oc=5",
+      "source": "H24info",
+      "category": "Maroc",
+      "published": "2026-11-19T20:30:28+00:00",
+      "image": null
+    },
+    {
+      "title": "L'accès à l'enseignement supérieur n'est possible que par concours (El Midaoui) - lopinion.ma",
+      "description": "L'accès à l'enseignement supérieur n'est possible que par concours (El Midaoui) lopinion.ma",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2RRaVd1OWVRVXlMQnE0cXY2ZTFnRDYtb2ZlZnpmQ2o3aElEVlROOUtUYTRfSVNKV04wM0ZLTEZUX2lyT3ZlR1hEUGg2SjVNWDJWU1hoZHRIT04xNVpLaGNkM1AyM0duQWxFUjktY2ZhVERubUZBaVlyeWFGVFhobTRFMDVHT2p6aXpuMnduR3NPVng4aU02cHRkWWNtZnh4cENvRDM5RVlleV9hX0Utbl9xdEd6ZWx6RVlLd0J0dzlQQS0tZWpPRURrMW1RQ0F6Ml9NUm1jSFJqRkhFUGxkMkVSZGNxTURWd3RhQkdmeTU?oc=5",
+      "source": "lopinion.ma",
+      "category": "Maroc",
+      "published": "2026-11-19T20:21:26+00:00",
+      "image": null
+    },
+    {
+      "title": "Pouvoir d'achat : le gouvernement fait le point sur la stabilité des prix - L'Opinion",
+      "description": "Pouvoir d'achat : le gouvernement fait le point sur la stabilité des prix L'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ0dEeElObHcwWTd6YWs2eVVMUTlHejV2U2dqdHJDN3F5Zno3elEzNzRtWlV0Rk8yME5RYlR6SXctaFlhRmlpTHdxNHJLVE1MbFR4VnQ1bzJMME5LdjBsTFZ6dW01TGx2dGllQlNfT1Q2QjdFejFISF9xaUhMOXZpQ1BVTkJGeHRkNG1KdkFlRk9zeGtqOE5SNGlhcHBVVWhOd2plOEpQNDNJZTQxNGxJZjFTY3RuV3l6WEVGRzFqLXJ0RGQ5OU5hNU0tNjJCMXBrcnptY3hqRjE3T19yWXp5UktuUTRGNm15ZDhFd0p3?oc=5",
+      "source": "L'Opinion",
+      "category": "Maroc",
+      "published": "2026-11-19T20:21:10+00:00",
+      "image": null
+    },
+    {
+      "title": "« Une fierté » : l’équipe de France de football de petite taille joue sa première Coupe du monde et rêve d’un exploit - Ouest-France",
+      "description": "« Une fierté » : l’équipe de France de football de petite taille joue sa première Coupe du monde et rêve d’un exploit Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNTlphM1NqVGYyOVp3ZFBtdnljN056bjA3NXhpbGFXSE1BVFBja3dvaUFuLWFmMWpYZnRFS3ZCeXNyM1paQkZRaThjTldoTGZpOGVCdHNhUFJJRDZNYlBsUzUyYi16RFNhZlE2TTkydzRRRWpoMTVpMGdjd3J0blk3TFR5ZEtfaEN5eU83Y0Zzai0xZkVvM05vR3h5ZEtITFlKenNjZlZsNGhRVEx0ejJKX09jaWNWSzRPMFkxVlVWZF9kRFN4NmNyV21nRTZ0YVV2RGx5cjJmSWE1ZWdLSHA0cDNyYWhSbEhTRWpWTy1YRWNFbkNRa1FVZVBDRjJvWmJ3T05GUkl6eDlKbHVHajEyNzRxWkRDUkZZdFpSdDBTMnR0dUUxeWVrUjln?oc=5",
+      "source": "Ouest-France",
+      "category": "Sport",
+      "published": "2026-11-19T19:32:23+00:00",
+      "image": null
+    },
+    {
+      "title": "Rabat : Ouahbi s'entretient avec le ministre français de la Justice - Medi1 News",
+      "description": "Rabat : Ouahbi s'entretient avec le ministre français de la Justice Medi1 News",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pbmZxaVRfM1dzRENfUmJCSW9aVExHUTIyeDBvLTJWUkVNS21TdXJhVGlsTXp3MS1aNm1vRWFneXYyV1ZCVnNUYnhsNFdoSVloUG9tcFVPRHpQZWF2?oc=5",
+      "source": "Medi1 News",
+      "category": "Maroc",
+      "published": "2026-11-19T19:19:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Andorre : Puyol rejoint l'Inter Club Escaldes (officiel) : Sports - Orange - Sports - Orange",
+      "description": "Andorre : Puyol rejoint l'Inter Club Escaldes (officiel) : Sports - Orange Sports - Orange",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQjhiaGxLRzVNSWJXUEZZN2hWTlJGT1RkQzM2NTlCcW1aQnNyVGxtc1E4ZTZTSWJfTUNYQUZGMnV4WlVNTjdtaVRfcFprS3FBOEgyZ1NVTlFNZkJvT0t0Vk9fRVRZQ2pFNXNxZHlkRnRJRzFJWFUwY2N3TE9pdl84cjE2VVd4SmhjSTZvdWNEcjkxY3IwdWgwNmJxRFFJSjl4RElUWVhwNUlzOVFkYTRzaF93Ym9NOWp6R2lXT2FleWg1Q3daWUV5cURaQnpoVXRoWE4w0gHTAUFVX3lxTE9COGJobEtHNU1JYldQRlk3aFZOUkZPVGRDMzY1OUJxbVpCc3JUbG1zUThlNlNJYl9NQ1hBRkYydXhaVU1ON21pVF9wWmtLcUE4SDJnU1VOUU1mQm9PS3RWT19FVFlDakU1c3FkeWRGdElHMUlYVTBjY3dMT2l2XzhyMTZVV3hKaGNJNm91Y0RyOTFjcjB1aDA2YnFEUUlKOXhESVRZWHA1SXM5UWRhNHNoX3dib005anpHaVdPYWV5aDVDd1pZRXlxRFpCemhVdGhYTjA?oc=5",
+      "source": "Sports - Orange",
+      "category": "Monde",
+      "published": "2026-11-19T18:59:44+00:00",
+      "image": null
+    },
+    {
+      "title": "COP31 : l’ambition fait défaut, les énergies fossiles effacées du projet d’accord - UN News",
+      "description": "COP31 : l’ambition fait défaut, les énergies fossiles effacées du projet d’accord UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwVXJUTy1JUEdnRFhtMDlORTFjMnMzcXc2SVhiYS04cDZWbUc4QWxNMmY0Q1NtR2czeFN6cHZGRU1hZDlKMHV3ZXdldEw1Q3dnN3I4Uk5qaw?oc=5",
+      "source": "UN News",
+      "category": "Environnement",
+      "published": "2026-11-19T18:51:58+00:00",
+      "image": null
+    },
+    {
+      "title": "La Chine s'inquiète pour le secteur de l'IA en raison des restrictions américaines - Noovo Info",
+      "description": "La Chine s'inquiète pour le secteur de l'IA en raison des restrictions américaines Noovo Info",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWE5mYnVXLWREU0Vuek1wbmQ3Vkl4bEpWLUVmdEd1aThISi0zUEFpQkVTRUducVlVRlE0a1ctNGZDc3RHU2RfNEtJV0FWbXFoNkdzUk81RU5MeEJGSVBXNzkxS2lFd2ljeW43anp1MWlsOTA0SUFWNG40V09zQlpxbEhuM05YVk1WaXFKWUxpZGFFcUlhdXhCQ1lCQTREZWxmX1NoM1pzQmdpT1ZZcHp4US1URmdPdjRwdTNsWTg3Ty1va3A5WmY1U0t2ZURROWlRVnc?oc=5",
+      "source": "Noovo Info",
+      "category": "Technologies",
+      "published": "2026-11-19T18:51:54+00:00",
+      "image": null
+    },
+    {
+      "title": "Chartright Air Group annonce une nouvelle expansion à l’aéroport international de Waterloo - Les Affaires",
+      "description": "Chartright Air Group annonce une nouvelle expansion à l’aéroport international de Waterloo Les Affaires",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFpWVGpnV0VtS2ZPb0JQTFlubU1jcEFncWc1UElySk9LeTNqSkdEZXhCUUt4YVZnUmNjWEFYdmI0eG44Ulhza3Zxby1YNTE0SXBMbjhtY1FUNjJkQzZ0M0liU0VsU3R4aHAyZU9tUmVEOEg4cTJwUXNOanFORGFiYm9JeTJhbFhfb0c4S2QyNDEwVWpxS0lTSThiVmFEVC0xQVBHNjF4dFBOMVZhNzhIUzhMQVNDQVNKbl9DdGhYZlMyakx6Q1BGRHd1UWltWkN3Q2VLQS13?oc=5",
+      "source": "Les Affaires",
+      "category": "Monde",
+      "published": "2026-11-19T18:24:07+00:00",
+      "image": null
+    },
+    {
+      "title": "Une fenêtre de tir pour le Maroc - lopinion.ma",
+      "description": "Une fenêtre de tir pour le Maroc lopinion.ma",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRU9aMVpGSGFPa2RTOXpEUm8ydUNGOUtFZjY2VEVjOXZCQjVQWm1zYU9xTGt2aE8yMllzQl9JWW5kOGxSSFZHV0c4QTJJcEZfS29acm5vVkVuZi14NmVBRGJXdV9oTnoxQnctWXNaODBBYnZjRDU2U3NxTXVoNDhpWVM1dzN4Ui1vREtCZDhDYjk4NFM5QjBVak94OGprTGFMcFZtaHF2WTU3eXg5dW5BRUdCWG9GVksyaGc?oc=5",
+      "source": "lopinion.ma",
+      "category": "Maroc",
+      "published": "2026-11-19T18:08:59+00:00",
+      "image": null
+    },
+    {
+      "title": "L'intelligence artificielle, un nouveau défi pour les entrepreneurs fransaskois - LEAU-VIVE.CA",
+      "description": "L'intelligence artificielle, un nouveau défi pour les entrepreneurs fransaskois LEAU-VIVE.CA",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakVTTVJ0aFRLOGdEVFJ4VS15VGxMUi1jdWdhZGJXZjQxZEkzc24xSW5XOWxHS1M5cHB6ZE1vNUt0U21VVXd0UURMczBZald0SjFsXy1taHlhOENSWmY2UDRlMU83eUdXT0taSVRVcE9EaEpraVk3cUN6WUl5a0ZhRmdxZDNLbUxha05NVFlSWXZUTzY5UW5VQXdqTUlkRGFRbEpTWGZDckpjMjU2MXlhZFYwTnU1eHNKSElDX2VsLWs5WTZmU0UtTGJFZjB0Sno3TzlCRlluR1lXUQ?oc=5",
+      "source": "LEAU-VIVE.CA",
+      "category": "Technologies",
+      "published": "2026-11-19T18:08:21+00:00",
+      "image": null
+    },
+    {
+      "title": "Saïd Allali: “Le Maroc a su maintenir un cap industriel au-delà des alternances et des cycles économiques” - Challenge.ma",
+      "description": "Saïd Allali: “Le Maroc a su maintenir un cap industriel au-delà des alternances et des cycles économiques” Challenge.ma",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdjNZRGlONDJLeURVM2tfYWgwemVVaE1VcHJodXNYRS1uMWJ6UDBHWVFpOGdEcG9BdGdWOWdVZzF5RGhDTW56dklUTFFra2I2dHlpNGhhNjhxR0VWV2hwYmN0cS0xd1FNajFKSUlPd3VIX0xMV1NjblgtNDViYjdkMTBoTWg0Y2pLMVdKY3FiZ0c1cnBmQWU4emwwTnUxVzBRRnpCenpuREQ0dk9pZFRTUmpZWUszRXVIaU9GbTVJbU5hekxIMkhWTFFzaF9NRWs1MWc?oc=5",
+      "source": "Challenge.ma",
       "category": "Économie",
-      "published": "2026-11-19T15:34:06+00:00",
+      "published": "2026-11-19T18:01:33+00:00",
       "image": null
     },
     {
-      "title": "À la COP31, pourquoi c'est aussi la place de la science et le rôle du Giec qui se jouent - TF1 Info",
-      "description": "À la COP31, pourquoi c'est aussi la place de la science et le rôle du Giec qui se jouent TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUXQ0SHduZGtfMldCdXF3eDE4Y2txUExmZGE3STlyenBmR1VMeGgtWVdBbWVIWm84bV9VUGtzaFJnalMzTmItbXI2ZGItMDZIay04ZU9ONlhRSXpnMG4xaFItSndZRmJHQVJjRkRVTURRbmljZEgzLTVtR000X1JpcVlJMjNnOWdBemNPbHpoX25QblZ6UHFNTTB4dEZqY2RKaFlKUFRkaXhmSDNFMnllbHljaGp3Y2lpSm1UeUdDUFE1dUpIUF9NbXZnLWNPSDV2NGR0N3lMbUdlZVZQaGt3?oc=5",
-      "source": "TF1 Info",
-      "category": "Environnement",
-      "published": "2026-11-19T15:32:40+00:00",
+      "title": "Déclaration du HCR sur l’arrêt de la Cour internationale de Justice dans l’affaire « Gambie c. Myanmar » - UNHCR - The UN Refugee Agency",
+      "description": "Déclaration du HCR sur l’arrêt de la Cour internationale de Justice dans l’affaire « Gambie c. Myanmar » UNHCR - The UN Refugee Agency",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM3VZUFJKZmxncGRnLXU4UHhnckp2WkFSbFEzSjBPNXhwWHkzMUpEcGxfbTFlZEdkR0FSb1lqWWhLaGMyNDRONGN4cDRuWEtwaXZMN1JkWVFhTktxWGFIWnhJWldUNDMzWWZFODJfWHl6YUZSTUhzcWVjNXVINkZZcXdna0duaXBSNHFtNHdWMXhEVHRpeWo1UEFTaWlmcDRrSWlIXzZheUQzekRWRlN6QlZVcnhUcVhIeW9rVQ?oc=5",
+      "source": "UNHCR - The UN Refugee Agency",
+      "category": "Monde",
+      "published": "2026-11-19T18:01:25+00:00",
       "image": null
     },
     {
-      "title": "Pétrole, gaz et charbon carrément gommés! Le nouveau projet de décision de la COP31 ne mentionne pas les énergies fossiles! - L'Avenir",
-      "description": "Pétrole, gaz et charbon carrément gommés! Le nouveau projet de décision de la COP31 ne mentionne pas les énergies fossiles! L'Avenir",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWi1zcjY0TnB2MFZhazJuSFBfRXdUdDlsSGRCUDllX1I0WTdhOVJlRmh5TnlCVXo1bklBNnhBNFFzN3BXby1obElobkJNc0JUQ3E4T0lWVjQ5UFFXRFJGQlp4c19xMVNUR2pERWROVHBJRjJqTDE1ZnZOcWRNdHVXdEJDNWdrRUtFNHlfUHM3NUVOcVlSNnp6SlFDRk9zRGpMeTg4MzhLUl9SaUU5TW4td0xweXBHT1ltclNLal9PQkFiYS16T0RFUi1zQ09rRGNyb1FtbWh5MzFLY1F4eWQwNWZqOHEyNGs2VUN6T3BUbUZHcVdEWklPMHBrZ1ZENFpTaE9FTzZtMkJtNGZTZkRfX0NSdXBxd09GYWpmU2JsRDlWR1pzeDJnVnBR?oc=5",
-      "source": "L'Avenir",
+      "title": "La COP31 : à l’approche de son dénouement, le sommet de l’ONU embourbé par les manœuvres d’une « mafia pétrolière - L'Humanité",
+      "description": "La COP31 : à l’approche de son dénouement, le sommet de l’ONU embourbé par les manœuvres d’une « mafia pétrolière L'Humanité",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObmZUamFFczY4Z1dTQnlENl9GMU9iZ1hLN19Vd3ZhU2FjRnVFRkh3WjJlZ2Z4MHFEVzdNbURXRVFBUTk2Y29LNjZvTzZybmxjbjJ2ZHNDVE9kWF9GdU12R1BCbzBaRlF3T1FQdmM4MkIteGhYUHZUazBHQUpHM0lpUmlSWDJxT3FSVnpRTmJhc3lsdXVBeGh3V3BISTJUSHZJMXE0ellDbXNkVXVoUXN1eFhncDA5LXItSjd6T3o1TkpuRzdKVDk2ZlFEMndYRjROYzJRUk9mb2RyYk5CT1dSQjJiZWFTUQ?oc=5",
+      "source": "L'Humanité",
       "category": "Environnement",
-      "published": "2026-11-19T15:26:00+00:00",
+      "published": "2026-11-19T17:50:40+00:00",
       "image": null
     },
     {
-      "title": "COP31 : pourquoi l'intérêt pour les sommets du climat chute - rts.ch",
-      "description": "COP31 : pourquoi l'intérêt pour les sommets du climat chute rts.ch",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ3lZMU12akU5OVliX0lzZlBsMmtmaTFWNWRGcE4tMXVfam5aU291STZNVC1KRVRlenRsU0pTN2ZhcDRGeWxoV1lnaV8xdEk2NG1GMzlxTWRzS25iT0pMX2ZIUXZSd295YndnTktGLTBiRXdRa0Q3andsRnpHU0JmVm1FUWJPVDl2TGFqX2FVTTNHN3MwUmpUVlZ6NVNMQ01PTHNMaGF2NHNMSUFpVDlyNXZyV1JjLXJKazF3QThXTQ?oc=5",
-      "source": "rts.ch",
+      "title": "En hausse pour certains fonds, en baisse globalement: la contribution climatique suisse illustre les tours de passe-passe de la COP31 - Le Temps",
+      "description": "En hausse pour certains fonds, en baisse globalement: la contribution climatique suisse illustre les tours de passe-passe de la COP31 Le Temps",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbUhqUnliV1l2OHFtREExSl9pOERjTDV1TVZGd0tmZmhFRk9kd2lxcC05bjZPOFA3c1lOT3BCQ2p6UmhLWHVsMVNlbVdoZWJLaFh1TUVlblpjckJlaUt3RVNXRU41LVNhd2YxRVlsTEYtZV9hYmhMemF3REpTNEFjanB5TlhLR3dWOS1SUlgzaTBDRFY2d3JSM2RSLTlNclJqN0hfakQ3ak9RbzRIM2lSdW5tZWhqakZuWWtYejNGbGZhYjhSZ2ZUVU5fRUlHZklRVmM4V0xodEoxMXJwM3NhcDJqTV94RWpkXy1xQ1BscjBuWXQwRFN6R3FvOWFqTTItTlVMcHlidjE?oc=5",
+      "source": "Le Temps",
       "category": "Environnement",
-      "published": "2026-11-19T15:18:12+00:00",
+      "published": "2026-11-19T17:29:54+00:00",
+      "image": null
+    },
+    {
+      "title": "Mondial 2026 pour amputés : le Maroc rêve du sacre - Quid.ma",
+      "description": "Mondial 2026 pour amputés : le Maroc rêve du sacre Quid.ma",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vR1BLSWhLbFFYRUhSVlRQVms0OE1PSWZITjFNUkV5VjhjLVB0OUJSVW84S2xiOGZ4eXl1VU5Vd2xlelBBWHk1NjZHVGNLNk03QmxSaGl2Ti0xZW9IS3FVelBtVDg1Y0V0NW9mSmdHaDdCTldWYVE?oc=5",
+      "source": "Quid.ma",
+      "category": "Sport",
+      "published": "2026-11-19T17:29:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Visa For Music : Rabat au carrefour des musiques du monde - Quid.ma",
+      "description": "Visa For Music : Rabat au carrefour des musiques du monde Quid.ma",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeWg1T3h6MHp4bGNibUk2aHI4a3dOcE1COXpKYkRwbVJZZlJ1S1JHR0JhMkxIODJlMl94SVgwNGd1TUpqSzRDOGp2dExYLU92RVFtcUk2OGlpckJvcV9wdVBEOUZBTnBjX1pLcy1veWQ5Z1JxSEQwaVlPMk84SkpmVkZZeVY5QTA?oc=5",
+      "source": "Quid.ma",
+      "category": "Culture",
+      "published": "2026-11-19T17:24:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Parution : Le Maroc en images : 45 ans au cœur de l'évènement - Quid.ma",
+      "description": "Parution : Le Maroc en images : 45 ans au cœur de l'évènement Quid.ma",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXd0RmZGczM3QXBmV3RYU0JIR3JGY0VEa2hmQUNPZmtUMFp6dVdOUF9lY0p3ZlZGQ00yek9BcGYxQ0xxekMtNnN1eEJBbGJsT0otd3Y5eDlDa1E4TURDM3Z1TzRyeTl5WUFFMDZHUGdkVmR0Z28zT3JEYk5KMXdEdjhiLXotX0U?oc=5",
+      "source": "Quid.ma",
+      "category": "Culture",
+      "published": "2026-11-19T17:23:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Walid Regragui en négociations avancées avec le Qatar : le sélectionneur marocain se rapproche d’un nouveau défi - Le7tv.ma",
+      "description": "Walid Regragui en négociations avancées avec le Qatar : le sélectionneur marocain se rapproche d’un nouveau défi Le7tv.ma",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1JDUzRUc1diQnkyY2V1Q0Z4Y0hPLWR4QmtoT1NMVV90TEZhdElhME1EOF9nUkh6TlhCbXNkRXJUU0hxaEFkQ0plR0hMeTZVRDRLc1pPTHpDODlIZ01qa1JEbnBxX05jX1lTYkttR0FuR21SVkRqQzNxUmFjRFdwcS03OC1qZ1l6OGtVbGZDY2Y5OHFlcGdkY0x1SjVuSV9nMnBaaVVsSmJ5S2plQ3R1NWFKYzV3ZVV2RzBlYU1uSms3YWhkLXVYVko2c0VEZWxGd3pZc09BOGU?oc=5",
+      "source": "Le7tv.ma",
+      "category": "Sport",
+      "published": "2026-11-19T17:19:29+00:00",
+      "image": null
+    },
+    {
+      "title": "Sommet de Shenzhen, procès Zecler, perquisitions au RN… L’actu de ce jeudi 19 novembre - Libération",
+      "description": "Sommet de Shenzhen, procès Zecler, perquisitions au RN… L’actu de ce jeudi 19 novembre Libération",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYzVhOWp6WnZxNHJKX2YzdkRIbEhHUXZ0UlBlY01PWUl6c0xWSTBKVHFPNExXOXhKWW5vQTNKQXo4X2JJdm5fd0JsaHhyZkROTmZmaTZPcFFMZE1LeWI1Mmpab0VmYmluWnRzaW1DbXY4WWRvUExOcy05QkI3MEdQRUhUSDhaZ2gyU0NTdjJ5NlpoSzRHbnNPNnVvOVBYV2Jsb1lSaS1pRDZRamJyWlVRSlptVmdPOVZlaEdtc01zUjJWWmp3aC1YeE1rQW9ZcXR1MzBxcm1MUVFHSlVKZ3k0TXd2eXdSVGJqSHJEdmFzUDhnTDVDVnR6VlFn?oc=5",
+      "source": "Libération",
+      "category": "Monde",
+      "published": "2026-11-19T17:02:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Questions d'environnement - À la COP31, quelle est cette Académie des jeunes négociateurs du climat? - RFI",
+      "description": "Questions d'environnement - À la COP31, quelle est cette Académie des jeunes négociateurs du climat? RFI",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUTBBWHpDUzM1b2lCUVFtUjdDeHdPaThMemFpc1NoTXBkVW9EcXV4SlltTVRWTTVtZ0ZTX1hQYTBVVi1WWkFvNDNWc0NMeHJ1SGZRT01LUU9BNHVqanc1TjZxemRJRF9CMFFQUm5tUV8zcEdzdFAwSUxUZmdiYi1NMlREcXhRdXpzZGNhZnRQMDlSbmFGbndzbEkxUWlPRDJZWU9pRXVPYUstMzAxWm1XWE9uS0l1S2lzdnBQN2FjdmtQRjZnZ0I3UXRUT1NHRlpRUnJfakVjVzZtczJpNlZlTDhxRmdFUQ?oc=5",
+      "source": "RFI",
+      "category": "Environnement",
+      "published": "2026-11-19T16:47:33+00:00",
+      "image": null
+    },
+    {
+      "title": "Code pénal : Les zones d’ombre de la réforme ! - lopinion.ma",
+      "description": "Code pénal : Les zones d’ombre de la réforme ! lopinion.ma",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTlg0UTRkalNkanM2WUtoX1R5cmlmSGZ0X2JZLUZ0VEhjMVgxaTRYUy1CbVFsSm5LcEd0RFlpRVhMWTRxOHBwV3BmemdneGgtOGlGM2w0RzNwMzMzUE9qcWJ6R1RPMFhWTTN4bk5ha0hFN1JvTlNWdjNzOFpwZVkwNWZneHc2WkZtZzh6TU1LMXZJNDQ2VjN4Y3Z0T2NCMzRnaEk5ek9JMUZzR0ZBWnBXOEdyMnRoV1pzNlltTnc1UGljYWJSNWFV?oc=5",
+      "source": "lopinion.ma",
+      "category": "Maroc",
+      "published": "2026-11-19T16:40:45+00:00",
+      "image": null
+    },
+    {
+      "title": "Technologie: le patron du géant chinois Baidu redoute une bulle IA - LesEco.ma",
+      "description": "Technologie: le patron du géant chinois Baidu redoute une bulle IA LesEco.ma",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOak1vcjZ3ZFNFWGdrekh6WmVGRzFEWG1wQ0lwZHJUOGdSTnBZX2RIRTBJSFlRbzh2QzBxblZUcXh6a2wzemdTOVRPQ0pLN3dfN3RCeEU0OS16c1VJSzVueUxiWEtMNFJzWWRwMW5YcmJvbGE4UkZPWlRhS0VGRTNYLUZ1V1VoLVFJWVNRdVVpbVVkejJfd2JwQU1pSW9PdHlqQXVfaw?oc=5",
+      "source": "LesEco.ma",
+      "category": "Économie",
+      "published": "2026-11-19T16:31:39+00:00",
+      "image": null
+    },
+    {
+      "title": "COP31 : L'Egypte s'oppose à de nouvelles charges pour les pays en développement sans financement ni mécanismes de mise en œuvre - Climat - Environnement - Ahraminfo",
+      "description": "COP31 : L'Egypte s'oppose à de nouvelles charges pour les pays en développement sans financement ni mécanismes de mise en œuvre - Climat - Environnement Ahraminfo",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PcnhiMXRjVnBIeVEwaXB3NWJLV1Y2dUJyM3JtM2pOMFNObVhpc3NtSjJBWkZfSDJQeW1sT3hXS0pDai0wck5ra2FkQmQyU29QSVk1cmhn?oc=5",
+      "source": "Ahraminfo",
+      "category": "Environnement",
+      "published": "2026-11-19T16:26:23+00:00",
+      "image": null
+    },
+    {
+      "title": "Infrastructures, logistique, transports : le Maroc courtise les investisseurs chinois - Industrie du Maroc",
+      "description": "Infrastructures, logistique, transports : le Maroc courtise les investisseurs chinois Industrie du Maroc",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDZ5aG9pOE1xX2ZuclBRNE0xemhfdmpHSFU2ckd1WlQtcTlLSHdiSDhPUmhoMVJUX2FuZ1I0bDdxeUxfZ094bDRBTEhxMlNRVTVCTjhuUzAtaGJfU0ZuVkkzb3NsN18yLWNSU3U5ME9MQngzS0NEV1BwbGZ1Rlk1OTFHYXJhbDhYSERnUVIwbVdMYXF1S3lfeWl6WTRiUlVaYWRGXzhIMA?oc=5",
+      "source": "Industrie du Maroc",
+      "category": "Économie",
+      "published": "2026-11-19T16:20:21+00:00",
+      "image": null
+    },
+    {
+      "title": "Monde rural : le CESE préconise de repenser le développement territorial à partir du douar - Le Matin.ma",
+      "description": "Monde rural : le CESE préconise de repenser le développement territorial à partir du douar Le Matin.ma",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2ZsdGpPR2txZlkxLWpjTkg3MXotazlPSzBqZlRZUWJBNmZMb2hRVi11Zi1HWmJHQnBMMmhhdUN3SUY2bDdtX2dfdkU0cDVQUVYxb09hWUJvMlp1QjdUQ3RpaEZmLURGWnJTRHJKU1NQTHJlb1U0S0pFXzFwRTlaUFpLbmJDeXVpRXZNMkVpSzNYd3lCVTAxOVRDRE_SAaIBQVVfeXFMTjVWWHplODhIWk00bV9tbTYxS1puanpTaFkzZGpjWU5fcnBEaUpjSGsyTGI2cWJ0bV9FU2NzQktYZktGdkVCbk54allRVlF4VTZMQWp3bnNmQzZQaF9SbzY5REhzVFNJNklDdmNzMFNnWGV1SF9jNGlBSjZXeWtMZTVab0RLdW9JMkVaT1VZa3Y5REdrajhrb2VwVXd5QlZvWU9R?oc=5",
+      "source": "Le Matin.ma",
+      "category": "Économie",
+      "published": "2026-11-19T16:02:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Mélita Toscan du Plantier dévoile les temps forts du Festival du film de Marrakech - Le Matin.ma",
+      "description": "Mélita Toscan du Plantier dévoile les temps forts du Festival du film de Marrakech Le Matin.ma",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVVBODhXS1JxbGRQNEdkNVFRNHRRb29JRDZjSWRObURNTmFBMFIzcUNpYkJKVVlkRUhjYWptcHdlMWlTTDBnN2N0eTIyd3ZuNUcyWkhsT3d5RFVyTUJOOWNCWkdUUWR6VFBhTmlJWEthX3FDUlRTY3pEbUxkcUlSZ1hYZndwOXlQa0ljQWFiNjNGV0lfRWFPU3pJaDjSAaIBQVVfeXFMTTNPOEQ1bWRSclA3R3ZzeU9SNXpPakw2cTBxZkFpMF9Bam85NkZiVHQ0RmVYSHVtVGZXcGxjMTNyem5JdEphYWFGeTlGZlpQcHg4ZXhwRkpHbVVyQVRUdEg4YVBJaS1CZ0lkRkxDc2M3QU1MU3RRUFRFZ0Jla2RBUFNTNWpaZmJTZk56eTY4SVFLS0c0d1NBeGpueUdNNExUamlB?oc=5",
+      "source": "Le Matin.ma",
+      "category": "Culture",
+      "published": "2026-11-19T15:58:00+00:00",
+      "image": null
+    },
+    {
+      "title": "« Made in Europe » : les investissements marocains dans le viseur des nouvelles règles européennes - Maroc Diplomatique",
+      "description": "« Made in Europe » : les investissements marocains dans le viseur des nouvelles règles européennes Maroc Diplomatique",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTU9XSGVyT0xBOTFEaTVHUUp1X0pKa1psYkdRYnpoTVpIRE1aakRLTDlrQktnc3JWRWgxWjNoT0dqTWlOckh5MVNyV0lsNkdYNFpZYXJiT1VmcTRtblEzcDRVMzhHVkRZQmdwS3RSQTVZQ1d2UjhacEZJZnVVMDgzRUt1OG9DSXlWeWdVSmE2YWlRN1RLWlMwbjNtZ3pWcklIM0NrcXZOZDFIS2hVeWpQc0NwTjl3UzhCVGZ4TENHQ3o2dw?oc=5",
+      "source": "Maroc Diplomatique",
+      "category": "Maroc",
+      "published": "2026-11-19T15:45:27+00:00",
+      "image": null
+    },
+    {
+      "title": "Classement FIFA : la presse internationale salue l’entrée historique du Maroc dans le Top 5 - Hespress Français - Actualités du Maroc",
+      "description": "Classement FIFA : la presse internationale salue l’entrée historique du Maroc dans le Top 5 Hespress Français - Actualités du Maroc",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUEzUkg4OFZaTlNheTJKOWpNZmRldHdSWmVkYlBrakZxcFNTaE1DT0VjWWgtU0tuSUVMU3JrLXg0S0ZrcDRCV2Jsb0ZUaGFlSGhMUHI3ekNlUGhObzBia2JxTENoMmxZbHJVd0VFbm1lRU1DZDlaaDZKSk16NERsOTRqN1RrT2h1b1NnajFxdmRfaTgyTGdfMzVndGZBX3M2LVo5SVFJV2owQWc2WUZ1SnVCU2lEN0NFU3l6SXBiTVFYZw?oc=5",
+      "source": "Hespress Français - Actualités du Maroc",
+      "category": "Sport",
+      "published": "2026-11-19T15:40:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Coupe du monde U17. Le Maroc et ses pépites à l’assaut du Qatar - Medias24",
+      "description": "Coupe du monde U17. Le Maroc et ses pépites à l’assaut du Qatar Medias24",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVhiM2dOWllkRzN3cEt1YTdTU2hZbHE3RWVSakpfSHZDY1BSemlPbUdpcHB3LVVLM1BzUGkzdXFMYkJlN3JuWlRhYXN1Z3N5MXZNanBBTjRHbDdjWmNGOVNkemZST2gxdmlXeDM5cVNocEVKRHFweV9KZWk1d3l6dlE4SjUteDR1eHYtaDNlZjRGTE9rX0JqbXB3eFo4cWdSeWxOcA?oc=5",
+      "source": "Medias24",
+      "category": "Sport",
+      "published": "2026-11-19T15:36:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Najmi (entraîneur de l'équipe marocaine de football pour - Elbotola",
+      "description": "Najmi (entraîneur de l'équipe marocaine de football pour Elbotola",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kYVN0RnlnVzQ5a0RacmdLajdHdFBYYzlVXzkwdmpEOU91MXhzeV93M05hd1hCbmFOYXRjMFJFd25YWVdCUEExM2doX3ZETzFsQVBxZFhaQ1dta3RycmNmR1FkbUFIdThkUXE0MzFn?oc=5",
+      "source": "Elbotola",
+      "category": "Sport",
+      "published": "2026-11-19T15:30:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Appian Capital ouvre un bureau à Casablanca pour investir dans les mines - Medias24",
+      "description": "Appian Capital ouvre un bureau à Casablanca pour investir dans les mines Medias24",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFNNU3kzV21RRVB2bEFFd3N0ZXUyVHRMS0NHaDdwTHIwMU51UGQ4QXZtaWxMaDFWMTZ3cVNqbHdNZUlvRjNKOGxfU2Mtd2dhRDRqS1E0Y2tEbUpxT2xOdTZFaGRJem1TaGRfcE0zeW85NlQwWVVYLW1FNHIyR2NZaWo1VVdmUVMzMFRoSVJ3UEFuMTFMWnRWalBuazhlbzM5NnV5RWZHcllBUmtJYzlaTnFmZw?oc=5",
+      "source": "Medias24",
+      "category": "Société",
+      "published": "2026-11-19T15:16:00+00:00",
       "image": null
     },
     {
@@ -58,10 +391,19 @@
     {
       "title": "Shanghai : le Maroc présente ses opportunités d’investissement aux entreprises chinoises - Telquel.ma",
       "description": "Shanghai : le Maroc présente ses opportunités d’investissement aux entreprises chinoises Telquel.ma",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZy13eWN1aS1yeEJxNmdmMXJBeldFb3NHSG4tSng1X0p1Y19uamwzV3lwbE9ERF9LVXZyRzdUbTBRbW5lX2U2a1lHZm9VQnpDRWlUYjZkamdOZ1Y2aENVRXd0TUo4SDgyanpOUmpBR0g1Y0pxb3RhS1NnNjZWdE1hVmFIY0k2S0V1SjBYb1d5NV9tb0ZzQ1VUUEpxc3Q0UHFIMGFFOUUwWkxXZUROWnE0UHFPMU1Dd1J0TWJ5NlRocVh0U0IxSV9nOGtMckJDME0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUkszOWRYVWhyNzI0THRPWnFBTlBBYU1oN2VsWjR2ZldJVVA4RjQtd0NkLW1VWW51WlJVWF93OEcxQURNdmFhNHEzVDViVXBaOXBGTmhTTDdfcElVdEZhTVdDUlJ2a1l3REhnYng4UEx0aFR4bWpDWXdHeXozSV8yWC01ZVNYWHZnTkJVOF9VVlJhMTYwSXZ5UXc3TmpFTkhXekJXaFo3dVdNOHNjYnRjQzhOR2RmS3EwWUV6OVdzczFhSnZFemh0WVRGTlpiNGd5b01MczNhWi0?oc=5",
       "source": "Telquel.ma",
       "category": "Économie",
-      "published": "2026-11-19T15:09:17+00:00",
+      "published": "2026-11-19T15:10:14+00:00",
+      "image": null
+    },
+    {
+      "title": "Éducation dans le rural : Achraf Hakimi et le Crédit Agricole du Maroc lancent un programme pour 750 bénéficiaires - EcoActu",
+      "description": "Éducation dans le rural : Achraf Hakimi et le Crédit Agricole du Maroc lancent un programme pour 750 bénéficiaires EcoActu",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoVWlYbkd6Vl8xUjZvVnJpWHRxWng5UC1WVFNEVzhOc0JiWlZ6VEdBMWpxZkFwY09meHd0NkYyMlJPLWtCOXl1QXVDUkhjN2JTQVRBMlNqWDYwZE5FSW1EaWRmNkVMcE1pclN1ZGQ0OXF0WktCZXRtM1VKSG41RkE?oc=5",
+      "source": "EcoActu",
+      "category": "Société",
+      "published": "2026-11-19T15:03:44+00:00",
       "image": null
     },
     {
@@ -74,66 +416,66 @@
       "image": null
     },
     {
-      "title": "Polisario : la menace d’une nouvelle déstabilisation régionale - Maroc Diplomatique",
-      "description": "Polisario : la menace d’une nouvelle déstabilisation régionale Maroc Diplomatique",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWk5aYkpWS2tWWFFhS2E4MkQ4b1hJS0ZRVGlGWkxxZWNKNkVQUGtaU1ZNUHAxeDhia2NSWXRISjd3anB6UnpKWnNtcjJHRU81V0JPS1h4LXhENkFpNVR5ZHNNU19jR0NjRGlqdGpaV0FnNExVQURWTlE2ZEw3cGxLYzZVVEFsMFBrZkI4YUY3clZjRm5neWc?oc=5",
-      "source": "Maroc Diplomatique",
-      "category": "Maroc",
-      "published": "2026-11-19T14:54:05+00:00",
+      "title": "Le Maroc devient la quatrième économie mondiale pour l’ampleur des dépôts de dessins industriels - برلمان.كوم",
+      "description": "Le Maroc devient la quatrième économie mondiale pour l’ampleur des dépôts de dessins industriels برلمان.كوم",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGlGbGdyTE9xS3BiOTY2aE5jS1JYXzBwNXFXdm1oWDc3YkdfLVo1T2tHanNVaWthdWNGRllhbkd4aFJENkFlRDNoRVVxNktaeTZCZkpNWlhwVW10VF8yUHF4cWdoaUUwR1lhZVgtZ3g1anNULTJ1NlhBaDRqQk5ld09LTVZWVGpmUU9oVzZrRnRKVkctMHZxS0psb3MzY2d0VXhrRHhORnh0TC1Yc1JUSXhTOUlyQU5zczRYY1h3?oc=5",
+      "source": "برلمان.كوم",
+      "category": "Économie",
+      "published": "2026-11-19T15:01:00+00:00",
       "image": null
     },
     {
-      "title": "Sofitel Essaouira Beach & Spa : RISMA et Sofitel dévoilent une nouvelle adresse emblématique inspirée par l'esprit singulier d'Essaouira - TendanceHotellerie",
-      "description": "Sofitel Essaouira Beach & Spa : RISMA et Sofitel dévoilent une nouvelle adresse emblématique inspirée par l'esprit singulier d'Essaouira TendanceHotellerie",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQSjNTa0Zzd0c0WHdLcTJCN1FGbWwwU0xKT0NJLUNYU25sZ1RKUUpLeDJnWFhqb2ZVd3lxb09fS1FJV0ZvbjJZX0JSa29MVUtMa0JkNmlNRkR5X1lqRkxKaWhrQUc0bWF3QnpKaE1vWVVwQUdRc0RmaFJwZEtUbFZYc3RRcjZLNU1iaDJFTU5vcGtIMzhCQ0hCMmZPeHZQcmpXYTVjMFU2ek4wYlhSQkRlQ1hkd1NQNmhnN1BoT1JOZ1o4RS13akZ3RGtTMnMydm9DLWl3RlVDdU5wcFhfWmV0WVVDeXZJakxydHNRZVFBWlhiYmhqeGduSDgyT19od3JVdWRJUkpXUW0zdFdaWmVlRGJsZXRTQ3pYZ1dXMWZqWXVFLUNtczJ6WEVPRlNzTXd4QjJlZWsxMHk2OTg0MHc?oc=5",
-      "source": "TendanceHotellerie",
-      "category": "Culture",
-      "published": "2026-11-19T14:53:32+00:00",
+      "title": "FIFM: une société de production algérienne retire son film de la compétition officielle - Femmes du Maroc",
+      "description": "FIFM: une société de production algérienne retire son film de la compétition officielle Femmes du Maroc",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcU9iM1lSajhveWpZOTlhWWFTVUVUaXZ4TEN2RzBRX0hoXzIzTFlYQnA4MEFlNjZxMWZJQmZGU2ExYUR5c1JYU2JsMERDekZKR2VEZFMwNUg1a3N1Mmk3SHVTb25BOTByaExTSTcxX1M1ZjJaYjQ0REtSM195NFBIaUdZRC1SYV82VDRUWnMyaGNQSjhSYmt1b2pDUUxWdDVMaHpEdERFREptbnVOVnltV1QxbVZTZ2ZmVERQbm9YMFd6eFNjS1VuUUpR?oc=5",
+      "source": "Femmes du Maroc",
+      "category": "Société",
+      "published": "2026-11-19T14:48:37+00:00",
+      "image": null
+    },
+    {
+      "title": "Intelligence artificielle : les cinq transformations à suivre en 2027 - Le Matin.ma",
+      "description": "Intelligence artificielle : les cinq transformations à suivre en 2027 Le Matin.ma",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWswLXg0MEdRTjczdWdfbm42ZDFvR0N5QWtKWlZfNzMtRWZCWjU2SExTNVAyUnZyZUdMUmQ0NzFHRHRKQ090dFJXZ0t1c2ZWMzNQRG1Ea3ZTak9hUlFlbkFQVDN3eHVMSXY0QUpCaXUzZk9scDk0d3B1T2hndktoLXl2UkdSNjdaaC1kcTRkc0hEWDZIOUVydmFMWFJOMDBlWmxFZVdtWTfSAagBQVVfeXFMTUlrMC14NDBHUU43M3VnX25uNmQxb0dDeUFrSlpWXzczLUVmQlo1NkhMUzVQMlJ2cmVHTFJkNDcxR0R0SkNPdHRSV2dLdXNmVjMzUERtRGt2U2pPYVJRZW5BUFQzd3h1TEl2NEFKQml1M2ZPbHA5NHdwdU9oZ3ZLaC15dlJHUjY3WmgtZHE0ZHNIRFg2SDlFcnZhTFhSTjAwZVpsRWVXbVk3?oc=5",
+      "source": "Le Matin.ma",
+      "category": "Technologies",
+      "published": "2026-11-19T14:48:00+00:00",
       "image": null
     },
     {
       "title": "Industrie de défense : le Maroc dispose d’un portefeuille de 20 projets (Ryad Mezzour) - L'Opinion",
       "description": "Industrie de défense : le Maroc dispose d’un portefeuille de 20 projets (Ryad Mezzour) L'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLW9nSlZ1NjdMUHNIOElLd2VLeGZlRVBwWVBfaDhsd29QVHlRdmVLSkJPY2dKWE1tR2IycU1jM2tGMjJWZG9wb0V5UUZQekV1UE1naVFYdmJybWZmSUdnSEs3bmJEaUQ5TjdRbXJTOV9Ob0dwelM0S2RZSXp4bktxRDhCNWpRSmZTZzVZckJjeDB5Q24wTjJuUDludjEzckNwcFd3SGFPS2tFOHhYc05uLTdmbGRMeTNGOThTQXpiNG51eUIwM0gzOG54cWxpZlVxLVJHNm9vWWNva09DQ2l3M0VHUjdZYjJMeGU4cEdTU293NFBmX1JDdWJLX21VNGM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNS0ZZSk9sdm1jYUhkODVNcXVuVTdZeWJFdVJ3Tm1ka3JJdk9lM0diNUVXNnhhWGt0bDgtcy0yVV9qRk9oNG1uY3ktUlpmYWxtcTNWTEFOVGJSb1RyTVZYQUZyMlBLRWtXSkxBRUNwRzlySzFaWTNVeW10OHZmb09tVjFldlNxenlma2VXNWUzWHd3cnFvTmlmWElRZFRQeEF2Z3NVcjltWHdaVkVIM0plU2VlZGRWbVBPZExveldLXzlCT1Fya0s2VVNYcktzaWxFVDl4SFFkWGd0N1U1WkV6c2dGTTRETmFnMlFYdUpyaHMxWFllOHVvVlZ4aw?oc=5",
       "source": "L'Opinion",
       "category": "Maroc",
       "published": "2026-11-19T14:45:14+00:00",
       "image": null
     },
     {
-      "title": "Classement FIFA : la presse internationale salue l’entrée historique du Maroc dans le Top 5 - Hespress Français - Actualités du Maroc",
-      "description": "Classement FIFA : la presse internationale salue l’entrée historique du Maroc dans le Top 5 Hespress Français - Actualités du Maroc",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUEzUkg4OFZaTlNheTJKOWpNZmRldHdSWmVkYlBrakZxcFNTaE1DT0VjWWgtU0tuSUVMU3JrLXg0S0ZrcDRCV2Jsb0ZUaGFlSGhMUHI3ekNlUGhObzBia2JxTENoMmxZbHJVd0VFbm1lRU1DZDlaaDZKSk16NERsOTRqN1RrT2h1b1NnajFxdmRfaTgyTGdfMzVndGZBX3M2LVo5SVFJV2owQWc2WUZ1SnVCU2lEN0NFU3l6SXBiTVFYZw?oc=5",
-      "source": "Hespress Français - Actualités du Maroc",
-      "category": "Sport",
-      "published": "2026-11-19T14:40:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Données personnelles : la CNDP fait adopter une résolution mondiale - L'Opinion",
-      "description": "Données personnelles : la CNDP fait adopter une résolution mondiale L'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaGljN19pN0d6ZVBNTl85X0lpX0c4ZjZjQzdmMWQ1eGVhT0dQRnBwdmQ4N3F4LTFLTXpLVlRyVWNneE9YLXBNRHZqalZtemI1akJJY0kzUWI0emE1LUNXWmxJaDYwZWs5UE94ZWFrTERmTmZ4NU9oQ1lxUzJzaGt3RmY3OUIwbDQ3b2hHeTF0bUNhLTZTenEwbEdEYXpyMkZoejhwcUlUdlhBTnlYVlA3REhZOU00QlZVVm1TRUxKamxJR2EzUlM2MVFYZnBjbXE3YUdqWmlnX1pITUliSV9qQWkwOU52cE8ySEE?oc=5",
-      "source": "L'Opinion",
-      "category": "Maroc",
-      "published": "2026-11-19T14:30:08+00:00",
-      "image": null
-    },
-    {
-      "title": "COP31: une dernière semaine à hauts risques - LesEco.ma",
-      "description": "COP31: une dernière semaine à hauts risques LesEco.ma",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY2o3Vl9PbUpwd1VwZXFiSTZUMS1xZUdpTEc1cE5vYV9rZURoZ1VyeWVmR29ERkp3enZ4a0QyT01GNXlIbXpETnNHcFV1RFZHcnZYenJhVUVnMlV4ekxkZ1VKaC15djcxN1dvVllieTZ3bFMybDBpRDNzUDRiY0tQejJNeWtWdw?oc=5",
-      "source": "LesEco.ma",
+      "title": "Croissance. La BERD relève ses prévisions pour le Maroc à 4,8 % en 2026 | L'observateur - L'observateur",
+      "description": "Croissance. La BERD relève ses prévisions pour le Maroc à 4,8 % en 2026 | L'observateur L'observateur",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PQzlZTXNkV25lWGd3OVdBU0thRVpnZEhPY2pETm5MS0UtV0NpSEdNazVUQlBzQkN3Z3ZPNkZrbGY4bVV2OXFYS2tDdlZaMHEzUXoyU2Zn0gFWQVVfeXFMT09DOVlNc2RXbmVYZ3c5V0FTS2FFWmdkSE9jakRObkxLRS1XQ2lIR01rNVRCUHNCQ3dndk82RmtsZjhtVXY5cVhLa0N2VlowcTNRejJTZmc?oc=5",
+      "source": "L'observateur",
       "category": "Économie",
-      "published": "2026-11-19T14:28:40+00:00",
+      "published": "2026-11-19T14:43:00+00:00",
       "image": null
     },
     {
-      "title": "3 E Network Technology Group Limited annonce l’extension des applications de sa technologie d’IA incarnée à la logistique industrielle - Zonebourse",
-      "description": "3 E Network Technology Group Limited annonce l’extension des applications de sa technologie d’IA incarnée à la logistique industrielle Zonebourse",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT0dwdEVnTmJtaDR3Z000aXRLRloyX0MzX09GZWpoWXJGUWRtWF9NSzlxbVRuaFVOcXQ3RmpEcXlraWhDX2J3dFFTQ0d5Y1N2UjVHOERpNUE1TldhaHFyNGRRQXZpZDUtME9TMTlXWlliZG56YW82cjZfMFJHcVRDR05QUzUydmRMYVRxRmVISkpXeC1YQy1pT01zeVBiOG9OTHFyOERCS2Q2cjFvaEN1SHZ4MlpjZXRZMlNaMFZYNk5icGVhUUVsSjJfYmRmcUxtaTExQzNZZ3RHTU8xa3lkajZfRlVJeVQ2U0pXelo0R0Y?oc=5",
-      "source": "Zonebourse",
-      "category": "Technologies",
-      "published": "2026-11-19T14:23:35+00:00",
+      "title": "Dans un monde 'conflictuel', une 16e Biennale de Dakar 'pour transformer la fragilité en force' - tv5monde",
+      "description": "Dans un monde 'conflictuel', une 16e Biennale de Dakar 'pour transformer la fragilité en force' tv5monde",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUEM1THdnR3kycDV3MUw3NE1keHZJdW1UWWNkV01ZUExORVVPY21VVnNsTWFOaDRSR3lGcHFoRHFwMi14Ny13N1pySGpFalFNR2djYjdXS3BiU2xRYmxjRVd2bF9tNnd3eGZNZk51REJBVFp4aHN3eEo2dnoyTTJsT2VGRlk4ZjB6ZlF5S3pUeWRSbFNUUUZ6bjVuMG1LSUhraTcwOE0tV1JnTXBaRHVCUUEtbjlDRHlUT1hGTGJCbXpHQmpZbi01Zy03RDVfcWx1TDRFX3l3?oc=5",
+      "source": "tv5monde",
+      "category": "Culture",
+      "published": "2026-11-19T14:08:49+00:00",
+      "image": null
+    },
+    {
+      "title": "Tamwilcom lance «Tamwil Moumtaz» et s'allie à l'AFEM et à l'AMEE - Finances News Hebdo",
+      "description": "Tamwilcom lance «Tamwil Moumtaz» et s'allie à l'AFEM et à l'AMEE Finances News Hebdo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2xMekpfOGN3eVBxbF8zdGxxQXhHRklBWUxLSV94cGdLeFJOTVZRcFJUX3ZXNVlhaVNPS3JIVXpYejA5S21uSHRlSU80VGJNeTlrRDhaRG5VWXJxcTd2YlJRUlBTODI1YkRUTGVFQzg0Mm9LVzJ4U3BGbVhWRV9LOEFTeEpTbnRWVGJ4Q0hxUQ?oc=5",
+      "source": "Finances News Hebdo",
+      "category": "Économie",
+      "published": "2026-11-19T14:00:00+00:00",
       "image": null
     },
     {
@@ -146,6 +488,15 @@
       "image": null
     },
     {
+      "title": "Pour apurer ses pertes, ADM va réduire son capital de près de 10 MMDH - Medias24",
+      "description": "Pour apurer ses pertes, ADM va réduire son capital de près de 10 MMDH Medias24",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONURwdFk1RzVpRE5RV19mbGNraXdMLWh6aUZtWnhId1labU5hZWo5LWNieTVHNTdjLUFSQWM4ZENmWVN2dWtzSjgyaFhnU1dpa3NMZ3hTdjkwVTB0dEFNY081SEJ4QWlQV2ttYnV6MFZCSjVRZE1HWExUQ1FtMFhSQlRDUjNfSGxYTGNYV28zdTd4NjBHOGhNUHM5aEFhUG1fV19aaWpMSF9XVjhkdlE?oc=5",
+      "source": "Medias24",
+      "category": "Société",
+      "published": "2026-11-19T13:53:00+00:00",
+      "image": null
+    },
+    {
       "title": "La frontière qui fuit : pourquoi l’adoption de l’IA ne rattrape pas son progrès - DECIDEURS MAGAZINE",
       "description": "La frontière qui fuit : pourquoi l’adoption de l’IA ne rattrape pas son progrès DECIDEURS MAGAZINE",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWd3VHJZRTJXWXdTWW9QLVowVml5dkV6TEpqUG5XQVFhdkNIb2Zjb3FQZmJkNm81UHVKSS1MeTFJS2tvbjBNUnpCb3QtekVwdlQ5NnpfLVpORExpRWg4c3J5ZjFxX1lNTXc4UWY1aEtmdXN0b0VDSUFsMFBZTzFQSGxOdXhBZUh3aGticEVha0dwQ0tlMFZPT2E3OVd4bGlDVE1yMm1XVzN3MTlQY2xvdEdxemN5V2xXQi1INXFxRXo3TEVtR0hqVkFkS3U3WE92UEdNR3d0cVM?oc=5",
@@ -155,12 +506,12 @@
       "image": null
     },
     {
-      "title": "Le ministère des Communications lance le programme « CODE AI Catalyst » pour autonomiser les start-up dans le domaine de l'IA - وكالة الأنباء السعودية",
-      "description": "Le ministère des Communications lance le programme « CODE AI Catalyst » pour autonomiser les start-up dans le domaine de l'IA وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3VWc3SXptNmJ2bjdyM2V4NGRVMTh5U3V2R3lkUjU0TUpEek1sdm9QQU1rQVlURGdpSHJPMHA0WTNVTHVUd1gtaS1B?oc=5",
-      "source": "وكالة الأنباء السعودية",
-      "category": "Technologies",
-      "published": "2026-11-19T13:49:59+00:00",
+      "title": "La société de Teddy Riner décotée de 90% au nom de sa clientèle royale - Le Desk",
+      "description": "La société de Teddy Riner décotée de 90% au nom de sa clientèle royale Le Desk",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHE3NlM1TURXc1d1R0VWT3g5MXhRaUNYZk9CRkRPWEZFUlRJajJ4WG0wNThSNFRtdVB6eHdaOHFSQmdyRmdMSHhwX3pPRmxIWmtpMTdFTGlLLUdMVlNaNmo0bWRDQ054THoybDA4NEJFSkVoMWdBNmN6Qjl6OFk4TEVMaUx3SUE3WkxpWUNVRTBzbjZpOW4yQmVDX2lia1l6?oc=5",
+      "source": "Le Desk",
+      "category": "Société",
+      "published": "2026-11-19T13:48:00+00:00",
       "image": null
     },
     {
@@ -168,377 +519,26 @@
       "description": "Le Maroc dans GTA 6: un titre de Fadoul, chanteur casablancais des années 1970, sur les radios du jeu Le360 - Le média des actualités du Maroc",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUGxiRlUwTlk5a2J2cFhGZzh3WkhUd2lBdU83X09yWFdTek5BM04tY0dKbVVhX196Z1Nyc0tLVGQzblFLYy1NNzlVT2w0TkRfd0hsT21kZnBPSWo4R3R6eHdWbEp6WG5qQW9TRzcxNzgtMEVya2NSck5MTFFmT211VTYxd2NLUDFGWW9idHc2WTh0VEh4Y1gwOEpVWWRNN1BWeU5vYXMzYU9IV01LMWVkU21nVDBZaTAxcGk1YWpPVWh5VGIwNUVtZVdGV3BETFU3NlRmTk1Qb2VNNWtGWVlPTk0yWi1jSnM2ekE?oc=5",
       "source": "Le360 - Le média des actualités du Maroc",
-      "category": "Économie",
+      "category": "Culture",
       "published": "2026-11-19T13:32:40+00:00",
       "image": null
     },
     {
-      "title": "L’indien SASMOS renforce sa présence au Maroc - Lebrief",
-      "description": "L’indien SASMOS renforce sa présence au Maroc Lebrief",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObHNIaC12WlVVOV90QzJLdXZOWV9CZ3RNMzdDUVd1c215aVFWSHZlbGwxWU04U0J2THpiVzB1a1RrTk05UHJsd1RScVI3V3N3aDZfbXVmVlhBeldDeE9laUxoeFlxMFYyZk9US1VrRmtEaUdoNWJHOGR2TGdyakl1TnZ1TVQ?oc=5",
-      "source": "Lebrief",
-      "category": "Société",
-      "published": "2026-11-19T13:30:00+00:00",
+      "title": "À Beijing, l’héritage d’Ibn Battouta ravive la mémoire des échanges entre le Maroc et la Chine - Infomédiaire",
+      "description": "À Beijing, l’héritage d’Ibn Battouta ravive la mémoire des échanges entre le Maroc et la Chine Infomédiaire",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16M0w4WGRtRDBYZ215QmRrc2xsT2dIQ1hCX005UDI2Q1hwSWRSNXQ4UU50a1FIaTFXNHBRVlJXOHJ5aXFNNDF2QjVRek1VV1FldDFJZGJtN2psZTljT3prTWxQY0dvRHNrMjNvVC1KdXFRNEpIcHoxR3M4Z2pOWW8?oc=5",
+      "source": "Infomédiaire",
+      "category": "Culture",
+      "published": "2026-11-19T13:26:45+00:00",
       "image": null
     },
     {
-      "title": "Développement rural : Le douar vu comme une cellule de développement | L'observateur - L'observateur",
-      "description": "Développement rural : Le douar vu comme une cellule de développement | L'observateur L'observateur",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ0xMT0xiWHZ6TVBYMTloQ1l5QW5KU1lxcm5PaGlzWjF1cWhkaGZhOGh4ZTZmUWp1SWF3WHhqWDRkUm5QOFo0YnNBX3dCZXVYV0U5b1NnaFJNU19fN3R5S1E2M0liLVNya1JZaVVCUDk0eU12WjZnLU1uRFNISjZ1U0N2R3RWUm5kMmZxNFU0a2h1cnQ0a3NZdEcwT2ROTUFQc1dsMFVDb2Nub0xfbnN3bFZfNERXOHpkM0FEWGEyS2ZvVHhGWGFNQ3Z1c9IBVkFVX3lxTE90MUtxenhObndOZndmZmFxNGNSVXJ6NkkwYTlvWlU1aDljbEltel9PQlp2UndWd29COVJHdVRud2NmV0tiOXZkWDAzRF9zNlEtUWxrNUhR?oc=5",
-      "source": "L'observateur",
-      "category": "Économie",
-      "published": "2026-11-19T13:26:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Capital-risque en Afrique : Mediterrania Capital Partners s’allie à Outlierz Ventures - Le Nouvelliste Maroc",
-      "description": "Capital-risque en Afrique : Mediterrania Capital Partners s’allie à Outlierz Ventures Le Nouvelliste Maroc",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXRTejhuR0lxaEVwdEExNUxZUks1M0NNMThzLW14bnpCTXBnSmpjQ3JaMTdwa2RMdjA4RkZMOVh2Vml5NW5uTnZBZXB5QnA5RGlfb1BtQWtfTnNPVTlqS0kxQ3VITDFfcTdLdHJqMWRIVlFjdkZ0bTdSblJTcHdkdDJES3p2eXNGaEM4ZEFndTM0Qzk0OXc5d1NFejdXbzdmYm9iVlpWNThGVWVHLS1FTXFR?oc=5",
-      "source": "Le Nouvelliste Maroc",
-      "category": "Société",
-      "published": "2026-11-19T13:08:01+00:00",
-      "image": null
-    },
-    {
-      "title": "Défense : le Maroc peut-il produire 40% de ses besoins militaires d’ici 2035 ? - Lebrief",
-      "description": "Défense : le Maroc peut-il produire 40% de ses besoins militaires d’ici 2035 ? Lebrief",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PRzlIdmdpVFM3WVRBeUxzQWxKTWRiS00yNFhhQmFaZS1mOTN5OXRINFpUaXBjZ0dBeGFvWUVKT3diV2UxUHMxWi1kSVhjZzl4Q1BhV0F0bW5iTnRmLUljS3B3eDlzMnJNTEVzbGpndGNiVDNmVGg2Tg?oc=5",
-      "source": "Lebrief",
-      "category": "Maroc",
-      "published": "2026-11-19T13:08:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Le président des Affaires religieuses lance un projet d'intelligence artificielle pour l'orientation religieuse dans les Deux Saintes Mosquées - وكالة الأنباء السعودية",
-      "description": "Le président des Affaires religieuses lance un projet d'intelligence artificielle pour l'orientation religieuse dans les Deux Saintes Mosquées وكالة الأنباء السعودية",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA0VGYzQWFrdktmdnZNYlQ3aTgxb0lvUXRJOVRCWXU0TFRtZnFLZ1pVRU9yQUxRblpOV1dJclBpdGtWUGltMmVGNWlB?oc=5",
-      "source": "وكالة الأنباء السعودية",
-      "category": "Technologies",
-      "published": "2026-11-19T13:04:19+00:00",
-      "image": null
-    },
-    {
-      "title": "Palestine : les paiements numériques face à la nouvelle loi - Libnanews",
-      "description": "Palestine : les paiements numériques face à la nouvelle loi Libnanews",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWFY5UmhWcVo4MHh3YVhSd2t6bXU3dTVocGFDMjFJeUVfZHJES2EtUkNXeEdnYVhSZnZyTXBjMzdLYllzeHJ5MEEwcDdzU2lqbHBGVS1CYmNaM0VJSk85QzRGam1kR1JUZzkteEprMXl6UlhoaTZlVzRueE5US3VsN2l2S3BvSGs?oc=5",
-      "source": "Libnanews",
-      "category": "Monde",
-      "published": "2026-11-19T13:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Comment retrouver l’élan de l’engagement climatique ? - RCF",
-      "description": "Comment retrouver l’élan de l’engagement climatique ? RCF",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmY4ajJ6NXNLTE9kd0VjRkVjME12VllocjJWSk1jd2ZqY1FGbHBMOFhzQmNUQkNPaHhoUUdYS3dhVUpUWGx2SGdBTEhOdDJteURYZzZveXNXQXR6eXl3T3NhSWZkZ3dFNHVONDZqamlDcW9pNE1HRU5aeFdEU0pnbTNUTm9lSFphWldPeE52RWVYYnVqZU5Da0lwYUhnaWNkeUE?oc=5",
-      "source": "RCF",
-      "category": "Environnement",
-      "published": "2026-11-19T12:57:00+00:00",
-      "image": null
-    },
-    {
-      "title": "COP31 sur le climat: la référence aux énergies fossiles disparaît dans le projet de décision finale - Ahraminfo",
-      "description": "COP31 sur le climat: la référence aux énergies fossiles disparaît dans le projet de décision finale Ahraminfo",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUhPZ0NmanBkT05RVXBXa0dFUW9iTGZPN0lSamJ1Ti1tbE94YXA3Q3hzR0FFZGNLN0xhZ1NScko2bExuZ0N3X3cyNlQzT1YtTnM4TVVpcjF5bWlsY2U1bFBLS25ydTVQZFdlb2pPblJYRjR1YjFZVUpRS1B3am9RMzA2QjZXLVdUUF91aHNQZmRCdHRYOFNxY2FrTXZLejQwWTJ1OXJuX3g1NFdMSFRNUFMwU0N2aEVwMnFyM0ZIT1VQMzNpZzl3X1JDc2Z6X3hzZmN2UVg5ZVlsTlUzYWc?oc=5",
-      "source": "Ahraminfo",
-      "category": "Environnement",
-      "published": "2026-11-19T12:56:03+00:00",
-      "image": null
-    },
-    {
-      "title": "COP31 : les banques centrales plaident pour accélérer la transition face à la hausse du risque macroéconomique - Novethic",
-      "description": "COP31 : les banques centrales plaident pour accélérer la transition face à la hausse du risque macroéconomique Novethic",
+      "title": "COP31 : les banques centrales radicalisent leur discours face au risque climatique - Novethic",
+      "description": "COP31 : les banques centrales radicalisent leur discours face au risque climatique Novethic",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3lacXJ1cGRBdUQ4T21Kd3puNlVlTXkwaWVrRktCREFscmZnbms5U25FLUpsRVZLLXlfR0x4cTAyXzk5LXdxZ0NOenBXSVpzZlI2c3hPUUxoVk45MzBVTm5zQ05UMEV4cTJ2VkRZcnNQUWo1UGZGVC13YkRWM1NjMjJNV2d0WU80MFY1TmZyYjk4anplODhTMnFuUGhsQlBRTExn?oc=5",
       "source": "Novethic",
       "category": "Environnement",
-      "published": "2026-11-19T12:52:56+00:00",
-      "image": null
-    },
-    {
-      "title": "L'intelligence artificielle est en train de transformer notre façon de produire et de gérer les entreprises. - Vietnam.vn",
-      "description": "L'intelligence artificielle est en train de transformer notre façon de produire et de gérer les entreprises. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbS1YR2pUaVlfdm5nUlQzeE1WTnZETTVvOVZDVVNPZmpZd25faVplMTF4Sy1QUTlvSUhSWW1qNkNvUTdWU0dTWDZqNjA1aktmc3dSVGR4WmdFcWpYMktjU2hMRzBuQjVrX1l5UjdaRTlMOHZhdGllWFp2TjhfR2xqNW1MSzBTM1p2V0Y0Wld3MHNOWlVMNGNpbF93YzhWSVRy?oc=5",
-      "source": "Vietnam.vn",
-      "category": "Technologies",
-      "published": "2026-11-19T12:48:05+00:00",
-      "image": null
-    },
-    {
-      "title": "Le livre jeunesse « Alya et les trois chats » primé - Femmes du Maroc",
-      "description": "Le livre jeunesse « Alya et les trois chats » primé Femmes du Maroc",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3Z3X2d3M0ZPdDNpVXNYWkRFRHRGYWY0ejZWaWFscjR5MUZsOG45NTY2czZpb2JPbi1MNlE3UURhMXBReWlTcHl3OWpMVFl4dTBWVVpuM1hsTzhBeHRfTC1JM05WZ0JJdkxLUWZVUE9zMVEtendTaUdOcHBncjdQa0lWclRiRVk3VFlNU0xydGN3Q0J5eUNFTA?oc=5",
-      "source": "Femmes du Maroc",
-      "category": "Culture",
-      "published": "2026-11-19T12:43:51+00:00",
-      "image": null
-    },
-    {
-      "title": "COP31 : le nouveau projet de décision finale omet toute référence explicite aux énergies fossiles - La Libre.be",
-      "description": "COP31 : le nouveau projet de décision finale omet toute référence explicite aux énergies fossiles La Libre.be",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcF9CNXgxWTY2OWE4OFdOUmVSUkgtUW54emRHRnFSODlYcGNMc1lZb2pRV0piZDNjQVBCdFIxMV9QSktlY2Rzek8wc3hQa2xIa3NpejFLM0JRaFpkektkTXRKT3VidWpnVEo3YjVncVgtbnJnZkY5ejZMRzV3blRySk5TRTNVVU53bGtpU3U1YWZkOXdkM0pTcVh4dVRrQUxuY1NELWYzb1hmZlJKcnBiTU5kNFZVdGZGanZWWGpuUUpLcU10SlRLNVUtcHBUbUFJeFAxZTZZdEdsVTBRVGRNa1BVUmlyNExYNFFkUUFKYw?oc=5",
-      "source": "La Libre.be",
-      "category": "Environnement",
-      "published": "2026-11-19T12:39:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Une cyberattaque assistée par l’IA a ciblé la Commission européenne - Noovo Info",
-      "description": "Une cyberattaque assistée par l’IA a ciblé la Commission européenne Noovo Info",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFk5SVh5X0s3V2ZjMFZpUWpmeE5RTXg0cXdPamhnRHVSWkY5eEhqbVNLSzR6UEVIdzJuWTRCTTV5MjFfU3FLY0NDTEg1V3VNdHFFTURhWWFxdE5fazZXTkE0cTh0LVNpNUlFVGNWdFpoTy01VV9odnprRVFkb1JKVjJqTTVFSnl2YXl2dnlmakRvSkF6ZzV2Y29LNzZVRFVpUzZJM0hrTUhIdjNxTThMSEwwcGh5RHhQdEh2Nw?oc=5",
-      "source": "Noovo Info",
-      "category": "Technologies",
-      "published": "2026-11-19T12:38:59+00:00",
-      "image": null
-    },
-    {
-      "title": "Journée internationale des hommes : au Maroc, que signifie être un homme aujourd’hui ? - H24info",
-      "description": "Journée internationale des hommes : au Maroc, que signifie être un homme aujourd’hui ? H24info",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlZNZDNSMkxkY3pUSVdUSUNkRWZma2V1OFplOWlPSHdkN3FPX25GZjhCUzQ1VWVBNnBBdThnc25VZUk0ZkdLeml6ci1RVFJ1Vlc5WnlTYXhnOVhOOG8wT0Jtd3IydTVkR2VKNjRIQnBEaTZRekJubkhzSV85Tk55dGs0RlI3dTVWbXc5YmZjVnl3cml0b3UwN2FIdzEzeFdfZV9KUzZYNktscUpoRHM2WFlfaWM?oc=5",
-      "source": "H24info",
-      "category": "Société",
-      "published": "2026-11-19T12:03:15+00:00",
-      "image": null
-    },
-    {
-      "title": "Classement FIFA : Le Maroc atteint pour la première fois la 5è place mondiale - Maroc.ma",
-      "description": "Classement FIFA : Le Maroc atteint pour la première fois la 5è place mondiale Maroc.ma",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnFRdUNjQXczR3YzSkc1QjEycWtQa0FySW52bHUyWGg0eE5qc2RUYWNYQjlIN3lmYm5xQ1dWYS1tNER4VkVZZkM2TGJ0bHVnaHI1SU1jcWdOdWk0Mm43UGJaWWFVZE5vc3JHTGxadU16ZzNmV2xHbE5aek94U0pQV3duMUJSMHBDZUxBdkk3LU1yTGI1Nk00WUtPWnZNTG1ockpsQ0VYTF9sQQ?oc=5",
-      "source": "Maroc.ma",
-      "category": "Maroc",
-      "published": "2026-11-19T12:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Visa For Music 2026 : Rabat renoue avec ls rythmes africains et internationaux - La Vie éco",
-      "description": "Visa For Music 2026 : Rabat renoue avec ls rythmes africains et internationaux La Vie éco",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdThjYmV1Nm9BNjh0QjdIdEVoOWlJMzA1WlBzQ2RFLUVYWkR5VWQxRTNTeHNORDByajFGNThoZEZvMF9vSlpYejl2NXM1dXNRZ2NiTU9ncHh5RmlYZUdReUktZ3Y4Y0tsQmNhOVRhS3V3aVF3NDFNYnNhX0tqWVVKSXJlaXE3elZjaGllM2NIdlRrX3BqS1g3emtTTllkMnBMYTlWV2VfbC0tY2xYYzcxNGNiTlhpYjBxRkpUUEl3?oc=5",
-      "source": "La Vie éco",
-      "category": "Culture",
-      "published": "2026-11-19T11:54:26+00:00",
-      "image": null
-    },
-    {
-      "title": "Aéronautique et défense : l'indien SASMOS s'implante à Casablanca - Medias24",
-      "description": "Aéronautique et défense : l'indien SASMOS s'implante à Casablanca Medias24",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGJ6elA0Zk52bGZtcmV3SEZZc0R6cUdxRkNwVHIwZ0dVZmpBaUZDZlRMUGR2UHNlYnZLRXRlbkpITkZTUHRTTzlCZXA5aHZ4TFd4SHdaMTVGMFRERWVvUzdnS18zU1QxNmlKU0JtVzlvcmRNRE5ZcWtjMGlrS0RPTnlISkc4VDV4VU5YRk1HUFdOa3gzYTd1WjZmOFlheGRDNXpUMw?oc=5",
-      "source": "Medias24",
-      "category": "Société",
-      "published": "2026-11-19T11:53:00+00:00",
-      "image": null
-    },
-    {
-      "title": "«L'intelligence artificielle doit rester toujours sous contrôle humain», plaide Xi Jinping face à Donald Trump - CNews",
-      "description": "«L'intelligence artificielle doit rester toujours sous contrôle humain», plaide Xi Jinping face à Donald Trump CNews",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakZZM1duWjRHcUVaLUtGbVJIQUdMMGc4b3MwbzVmX3gzUno2SzhHTEp1UzFSSTJVYXRkZzBCYUNIaUNzbkZIQ1F1OGlnWDJYaTNsRXBPMERLcml0LTRZcFdnRXdhbTVGWGt3d2pwRE54X0V3MC1oZjNGNmpuM2t2VmRvT0pWemEyU3RYcm1zenZiLWZaZDBKblFfMjZzc2czMk9obFhzbVhzTmZjVGpKTWxYZTlTX3M?oc=5",
-      "source": "CNews",
-      "category": "Technologies",
-      "published": "2026-11-19T11:45:10+00:00",
-      "image": null
-    },
-    {
-      "title": "FIFM: une société de production algérienne retire son film de la compétition officielle - Femmes du Maroc",
-      "description": "FIFM: une société de production algérienne retire son film de la compétition officielle Femmes du Maroc",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcU9iM1lSajhveWpZOTlhWWFTVUVUaXZ4TEN2RzBRX0hoXzIzTFlYQnA4MEFlNjZxMWZJQmZGU2ExYUR5c1JYU2JsMERDekZKR2VEZFMwNUg1a3N1Mmk3SHVTb25BOTByaExTSTcxX1M1ZjJaYjQ0REtSM195NFBIaUdZRC1SYV82VDRUWnMyaGNQSjhSYmt1b2pDUUxWdDVMaHpEdERFREptbnVOVnltV1QxbVZTZ2ZmVERQbm9YMFd6eFNjS1VuUUpR?oc=5",
-      "source": "Femmes du Maroc",
-      "category": "Société",
-      "published": "2026-11-19T11:43:07+00:00",
-      "image": null
-    },
-    {
-      "title": "Maroc Telecom: Mohamed Benchaaboun reçu par le Premier ministre mauritanien - Boursenews",
-      "description": "Maroc Telecom: Mohamed Benchaaboun reçu par le Premier ministre mauritanien Boursenews",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdXpFWFYyVi0td3hROHgycTZyS2lIdjhWX1JqVnFWZ1FET1JuU0lsM0pFRkZYU0NaTGg1WDhtQW0xQ2lXSEVWSkprT3RiWTNfbDJScEwyQURJNFVfYVlpWFRKc2hlemlQYVliMXB0cDNIMmplN2FBR0FWU296ZFR3dzZlVEpSa1QxbFcyd1VoU2xjaURX?oc=5",
-      "source": "Boursenews",
-      "category": "Maroc",
-      "published": "2026-11-19T11:42:51+00:00",
-      "image": null
-    },
-    {
-      "title": "Fête de l’Indépendance, la fierté marocaine à l’épreuve du quotidien - Aujourd'hui le Maroc",
-      "description": "Fête de l’Indépendance, la fierté marocaine à l’épreuve du quotidien Aujourd'hui le Maroc",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzdlalVNWklsX0s0SEdYMG9FeVJhemhGVGlxWm5VSnY0NFZja3NzbHYxeUhmNTIyaFpvekhIbGhmamx3bXE0VS1FcWYtUm1wVmtGTUc0cGQ2cVlxQUhXV3FuOWFLa1VfcVBoUktNTFZXUGVyc0w0YmVYcVdyYVFRb3dZN2lldlhSeWRzcFRyWVFDZ0tvUGlQcVh6TTRmTzQ?oc=5",
-      "source": "Aujourd'hui le Maroc",
-      "category": "Maroc",
-      "published": "2026-11-19T11:34:57+00:00",
-      "image": null
-    },
-    {
-      "title": "Les entreprises de Dubaï disposent désormais d’une main-d’œuvre IA à la demande - Euronews.com",
-      "description": "Les entreprises de Dubaï disposent désormais d’une main-d’œuvre IA à la demande Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0U2ak00WnMyRHZlci1UMU5YNmF4Tjl5WDNDVk40bFdxMDBLV2xRXzBsMWNSNE0xQUZuOWpxejRFcXQ3WG50VXhkc084Zm4xZU5JbW44cFZsREUzaHFKbXFvLXA1c2NlYkNndHEzM0NmdFJhdEktaURFODh1OFJMZmZNNG9CTmM4czhqdjBZVE1MSzMyV043UW9neWlBSEJJaU5rZl9LbFJhdE14S2Y1Wl9Jbw?oc=5",
-      "source": "Euronews.com",
-      "category": "Technologies",
-      "published": "2026-11-19T11:33:50+00:00",
-      "image": null
-    },
-    {
-      "title": "L'autorité irlandaise des normes publicitaires condamne Ryanair pour avoir induit les voyageurs en erreur - وكالة الأنباء الجزائرية",
-      "description": "L'autorité irlandaise des normes publicitaires condamne Ryanair pour avoir induit les voyageurs en erreur وكالة الأنباء الجزائرية",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeXJqeS00YTZucV9wRVlWT3h3M0ctY0piaXBQMzVBa0NUdVRBV1VPMUJCbjhQMFVULTV1b0U1R05wakdYakVQQXU0WDhBQ3VuMlc4MTB1Y194MGFSS05HR0pvTTR4WEpSM05uWmVBLTNwUjN4VEViay1pMlBubXJsY0dTR1I5VGw1UlVvV0FZVG1ZeEJTY2VrZ3U0SkJXZTBicFV2ZENOM1NMVmczYnI4U1RNS2txM0Z0SDZwOGZjZ2FCbFRESWdHMEJ1NUdNM0g4OEFHc3pEUzY1aXZWWkNuUkhB?oc=5",
-      "source": "وكالة الأنباء الجزائرية",
-      "category": "Culture",
-      "published": "2026-11-19T11:33:00+00:00",
-      "image": null
-    },
-    {
-      "title": "[Vidéo] Actualités internationales 19/11 : Les États-Unis mettent en garde contre la menace terroriste en Europe ; la Corée du Sud et la Russie renforcent leur coopération sur la péninsule coréenne - Vietnam.vn",
-      "description": "[Vidéo] Actualités internationales 19/11 : Les États-Unis mettent en garde contre la menace terroriste en Europe ; la Corée du Sud et la Russie renforcent leur coopération sur la péninsule coréenne Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb3VMQW5UNE1XZlIyWGZZeWNHSXJET1FVLUlPdkIzOGszdUhGS3I3Qml0TmtQVWdjOEpoQlE0S3pLTHZTYTRmQWRielhkWF9tLVJ5WmxsS2ZqYlk0UGo2TzZTVnRJUDQ2TGN2UExPbzNXTlRlb1Y5MC15eE9OYW1GR25KRUxYQ3FIZlJqbF9DRkR3UlgxODZJUEFJYXhpX3k5b3dyNFRYSUxySzJDaEgwOGtYZXBRMElIeDVybkNvWUhILTdQcWNDcGs1MHJEYUprNTlGOXNIZ1ZiUQ?oc=5",
-      "source": "Vietnam.vn",
-      "category": "Monde",
-      "published": "2026-11-19T11:29:47+00:00",
-      "image": null
-    },
-    {
-      "title": "Il ne figurera pas dans la compétition officielle «Chroniques des années de siège» retiré du FIFM - Aujourd'hui le Maroc",
-      "description": "Il ne figurera pas dans la compétition officielle «Chroniques des années de siège» retiré du FIFM Aujourd'hui le Maroc",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFBWX1pXOGN2VjhyNmxhQzlsYVFwX09tWXFLT0U1Rjh4Y1dFczh5alc5Q2haSWVFMHFaTlkydHVwOUJEZXF5clYxamE1NFB4MkgyMGhqYmtxMy11MHJlZ1o0SHlieW13QzhrMGFqdW5MZlVieERMS29tblY2T1VMUkZHdXJfdGVIblZJbzY3dW1qc29ZQXRCbXBHdTlYU0ZINTFrRGM0RmN4SkUwVmJyTHBRTFJxX2ZETktVTU43T2hCNlU?oc=5",
-      "source": "Aujourd'hui le Maroc",
-      "category": "Culture",
-      "published": "2026-11-19T11:23:34+00:00",
-      "image": null
-    },
-    {
-      "title": "Le Maroc dépasse le Portugal et entre pour la première fois dans le top 5 de la FIFA. - Vietnam.vn",
-      "description": "Le Maroc dépasse le Portugal et entre pour la première fois dans le top 5 de la FIFA. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYmNsMldpU0FHS25haDEwQWhZOGgtWjVLbUo5aFJFbnZGdlZKMDlLRV91SVNaX2FfWFhkTDkwYndyVmFyeTV5bHpwYV9GMGJ4VmhEYjZtNzBLeGJvZ0ZMaFE4SGxWZzFwQngtSXRzZ2lJZ3E5aEwyZjdrQkQtZmZEWVFEdw?oc=5",
-      "source": "Vietnam.vn",
-      "category": "Sport",
-      "published": "2026-11-19T11:21:52+00:00",
-      "image": null
-    },
-    {
-      "title": "Cybermenace : Le Maroc face à une nouvelle vague de cyberattaques - medi1tv",
-      "description": "Cybermenace : Le Maroc face à une nouvelle vague de cyberattaques medi1tv",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVmFCNktjS0pYRXRqVHd5WUZQV1F1ay1lVUI3OFp4WWVLWjRkamxxNmpSZW1qMDU4alI2TnRrdmU5bTNOQ0tBa2U2LUhOZWYxandzRGpZNXBPemI0Z3JkeXh3OWtHVVZTNDdybEsxamJWdk56VTVuQ0dWcTZ4U2lsUm5UZVVJVWVLWWJYZFM1OHRYZGZoN0pXUnRJTUNfVGNKbTdJQk4yTWtfTmJfWm1ndw?oc=5",
-      "source": "medi1tv",
-      "category": "Maroc",
-      "published": "2026-11-19T11:12:12+00:00",
-      "image": null
-    },
-    {
-      "title": "Visa For Music : la 13e édition du festival s’ouvre à Rabat - Finances News Hebdo",
-      "description": "Visa For Music : la 13e édition du festival s’ouvre à Rabat Finances News Hebdo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXhfVTYyNFRWbFdKbUtGOWU4QnNxTGZYY09HaHhYNjV4QzEwdTYxUjBxU2lMNlJNMmpoSHZGMkk0aXFPZm5oUE5KeDBlS0FWU3pHbFloQWpib1NrTVl1R1NjR1QtaTJTVGM3UDZpUXdrNzlKd1lKNE9yYUp3VjJEMU81VlNwaURW?oc=5",
-      "source": "Finances News Hebdo",
-      "category": "Économie",
-      "published": "2026-11-19T11:06:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Le peuple marocain célèbre l'anniversaire de SAR la Princesse Lalla Hasnaa - Maroc.ma",
-      "description": "Le peuple marocain célèbre l'anniversaire de SAR la Princesse Lalla Hasnaa Maroc.ma",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXc2UkRsZlFMbXJNVnJhYmw0Q3B2S3djTWNWZEZocU4xR2IwVkdLZkhIeVFVd3RRcDRPLTFmOG83Q3hUeGZjQ3BCTUc3YkJObkJBZXJQOGVzQTcxUTJOdUl4dktHazVKV2tfSTVNUEtOZGxQRjJzcWw2Uk9fSmNXT1YzN0haZWRjT1BQNlBTZW9FUG5Cd29qcjRwVUhmSklENUVLWDNPRQ?oc=5",
-      "source": "Maroc.ma",
-      "category": "Maroc",
-      "published": "2026-11-19T11:05:42+00:00",
-      "image": null
-    },
-    {
-      "title": "Enseignement supérieur privé: HEM rend hommage à Abdelali Benamour - Aujourd'hui le Maroc",
-      "description": "Enseignement supérieur privé: HEM rend hommage à Abdelali Benamour Aujourd'hui le Maroc",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYTlEeDFnZDVSMm1HSUZqcXdTX3VsM1hKUGpVdUkwWFAyUU81cTJvVWt6eldfeThMZ3VVVFo2SGdFZEtuSXJRLWg1UDFYRzVJNTBXMS04VzNaSmVQbC1oaE9VWWFJSEU0dEtBQmk4TFVWQWxIdVdFR3dEWXRwSWh4T0hJS0d3ZlBDclp0dEpsRG5rWERzYWVmQWRn?oc=5",
-      "source": "Aujourd'hui le Maroc",
-      "category": "Économie",
-      "published": "2026-11-19T11:04:54+00:00",
-      "image": null
-    },
-    {
-      "title": "Maroc : la croissance économique devrait accélérer à 4,8 % en 2027 (analyse) - H24info",
-      "description": "Maroc : la croissance économique devrait accélérer à 4,8 % en 2027 (analyse) H24info",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZkQ0bEV4Z0hQWkliWklIemlwTGZCM2VmanBRVzlEOVloT0NVcG1jd1VmOFUxVUVNdnZFczNKWVBiVlBxZDc2ak5KLVZhWlZqSG96U2M1dmhJVDFTYzZUVVVIbmZ6X05JTmVod1BuZ0dsN1NvZ0FidGYtSTZJVTlIVldKZ212bDR5S2FLbkRpdWkweWxiVUFHdU1sMmxNd28?oc=5",
-      "source": "H24info",
-      "category": "Économie",
-      "published": "2026-11-19T11:00:51+00:00",
-      "image": null
-    },
-    {
-      "title": "Inauguration d’un nouveau réservoir de 25.000 m³ - Aujourd'hui le Maroc",
-      "description": "Inauguration d’un nouveau réservoir de 25.000 m³ Aujourd'hui le Maroc",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeFpWTFB6Y1QwZ0x2TVJOVU9Sa3dEWjh1blBNNE5fanhuWGNiZkNRb2FIZFI5QkhVRDVjZTdsRF9JYkVXVEs1d09yRXI5SUFYNlZvQ1ktRTktcXpKN3RfZ3pCSzZxSEdSWHRXQ1RvVzR3OHd3Zk14alcxb1V0YUdGRVE5YjJzTENJMHc?oc=5",
-      "source": "Aujourd'hui le Maroc",
-      "category": "Société",
-      "published": "2026-11-19T10:52:40+00:00",
-      "image": null
-    },
-    {
-      "title": "L'équipe marocaine de football pour amputés affronte l'Angola en quart de finale de la Coupe du Monde - Elbotola",
-      "description": "L'équipe marocaine de football pour amputés affronte l'Angola en quart de finale de la Coupe du Monde Elbotola",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04NTkyd2pfVmUydFJWT2hydzBLazNiOF9fTmF5NFBkWFRlV3JMYmU3WGQ1dHdYcEhXZ0d1X09jNTA0RHpBZXJZMFpjTzZjdk03NFdGWWxEUjVwc2RBNHB2SWYxb2ZQQmVhM0hhSUJB?oc=5",
-      "source": "Elbotola",
-      "category": "Sport",
-      "published": "2026-11-19T10:52:01+00:00",
-      "image": null
-    },
-    {
-      "title": "Intelligence artificielle : La BAD alerte sur le retard de l’Afrique face au boom mondial des investissements - Burkina24.com",
-      "description": "Intelligence artificielle : La BAD alerte sur le retard de l’Afrique face au boom mondial des investissements Burkina24.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWjFaYjIzay1jSFBnVURqSHNNaldEWWE2NUlNXzBPdGhEeG5JTlh3cFV1cTVpMXRvRkw3c1RFRVZzbjNZWTE0TG95RFBVUnhHSTV2RlZha3dxRVVNRjdFdXloZ004dFo3LWFDeVU3ZW5sS2ZFZGdNa0pGcTFBM2xsekZEZnhJcXZkbm1JeUVpMnA2T2p2S3FmX1hvNWdyVzg4bUhqemlKaHVtY3lBVFNNTUt3NVNoVFdITGVxeGN5ZUVJQ3I1aER0Nm5zSl9PT2I5WVZ1SV9LOA?oc=5",
-      "source": "Burkina24.com",
-      "category": "Technologies",
-      "published": "2026-11-19T10:49:52+00:00",
-      "image": null
-    },
-    {
-      "title": "Le roi du Maroc a versé des millions d’euros à une société de Teddy Riner - Mediapart",
-      "description": "Le roi du Maroc a versé des millions d’euros à une société de Teddy Riner Mediapart",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXdLWl9FbG1KclFkOENOVkNTdkpKbUtKcTZWcnZMNTduOVBKeE5tQ1JHVXZtS19LdWVpWlNwMG95OWx0a2RheHk4eG1DNEt6YU9iTlJSQ21PcnlzZzdJdFJteTJJcGlkR1JOVUR2RjFFWUVod29RMVN4S2FITmtVSDBGRnJHWFBwa0luWU9VYTQ4a3hwaWlJYzdHSC1TVlFBYUpHU2FzLXdoTURGRnF1TWx5MWtCMG5heUtR?oc=5",
-      "source": "Mediapart",
-      "category": "Société",
-      "published": "2026-11-19T10:43:36+00:00",
-      "image": null
-    },
-    {
-      "title": "Tamwilcom: Un nouveau programme de cofinancement à 2% pour les entreprises - Boursenews",
-      "description": "Tamwilcom: Un nouveau programme de cofinancement à 2% pour les entreprises Boursenews",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlJQb09kY1NtaVk0V1l5Mi1ydTdPUXZuVk5zYnpFdmVkbHh1SUJlTm1GU1FwSW5tN2ZwY2I3enFvd0xEMzNzWGVSTkhWS0lJUm5vSmRpY3k0RWY5M2wzR0dSblRIOWp6WjJ3dWlzRGU5dTRSOWF5V2FHVmdKc3ZrTGtsa1RLOVdONVRNeHlSbXJyeUdhUkxUU2ZhUQ?oc=5",
-      "source": "Boursenews",
-      "category": "Économie",
-      "published": "2026-11-19T10:41:51+00:00",
-      "image": null
-    },
-    {
-      "title": "Les joueurs du monde entier plongent dans la superproduction \"GTA VI\" - tv5monde",
-      "description": "Les joueurs du monde entier plongent dans la superproduction \"GTA VI\" tv5monde",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONE9sLTMtdkRLYTlUbWNENnVNZHk4di1qa1lzWWlqVzRGSkdVNW81cG5fQXM1djhJQWRSOXFSSTJodXp5Z1pQdG5Ub05Zams3MEJ1Q3pwZVlMNXRwYnVfaVlWMGVsbGNXcnV5eGV3OGlXeHZOVF9iMElHRS1PV0NoaDlsb29JeVFlVmx1RV9QblVGVHRUUmpXbHpGR0c4MHJJSjBmNVNMVjMxamQ1VVFfLTEzWFdmU3hF?oc=5",
-      "source": "tv5monde",
-      "category": "Économie",
-      "published": "2026-11-19T10:36:14+00:00",
-      "image": null
-    },
-    {
-      "title": "\"Nous avons une responsabilité commune pour préserver la paix internationale\", lance Poutine face à Trump et Xi - TF1 Info",
-      "description": "\"Nous avons une responsabilité commune pour préserver la paix internationale\", lance Poutine face à Trump et Xi TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS1NfV2VucC16bGVEUzJLT003ZzVuQlg2S1lkbVllT2ZMSm43WjRFOVBGOG04UGhPc0hfRy0ycU1TTmlyeHpjU3pRRlBMM3IyU181NTdpY1ZFaDVfYlQzaUs4eTJsUnJPeDcwLTgxZ2pzUC1DWHZ3QnAtbXp5RHNQakRtTGNoaUFwV2NnTW9KYVUwdUVTWC1lSkxzUmllTVlhVGFDemo0c2xIcC1OUWdnRklrUzk3TGdtOGNOOURuTVE3cDlqTlNrWDVGc09KUnFRbEVjQWNGT0NlRzQyV1dlZmMwdExodlBvNFoyQm9RSVplWTV0UkZn?oc=5",
-      "source": "TF1 Info",
-      "category": "Monde",
-      "published": "2026-11-19T10:32:46+00:00",
-      "image": null
-    },
-    {
-      "title": "COP31 : L'Egypte s'oppose à de nouvelles charges pour les pays en développement sans financement ni mécanismes de mise en œuvre - Climat - Environnement - Ahraminfo",
-      "description": "COP31 : L'Egypte s'oppose à de nouvelles charges pour les pays en développement sans financement ni mécanismes de mise en œuvre - Climat - Environnement Ahraminfo",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PcnhiMXRjVnBIeVEwaXB3NWJLV1Y2dUJyM3JtM2pOMFNObVhpc3NtSjJBWkZfSDJQeW1sT3hXS0pDai0wck5ra2FkQmQyU29QSVk1cmhn?oc=5",
-      "source": "Ahraminfo",
-      "category": "Environnement",
-      "published": "2026-11-19T10:26:21+00:00",
-      "image": null
-    },
-    {
-      "title": "GTA VI lancé dans le monde entier - Atlasinfo",
-      "description": "GTA VI lancé dans le monde entier Atlasinfo",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qUWlpSUsyZUVDYTBmbDVmZTUzYVk4clh3aVA3M0x1dVV5SlpZdHNvWmN5Q1ZaOHFzanFUdGNWOV9MejFNZ004RjBLYjZHY3hEMHg1aVd5ZnJUQWt0LXNTbldJNEI?oc=5",
-      "source": "Atlasinfo",
-      "category": "Culture",
-      "published": "2026-11-19T10:01:45+00:00",
-      "image": null
-    },
-    {
-      "title": "Sur Hautes Instructions de Sa Majesté le Roi, le Complexe Hospitalo-Universitaire International Mohammed VI inauguré à Dakhla | L'observateur - L'observateur",
-      "description": "Sur Hautes Instructions de Sa Majesté le Roi, le Complexe Hospitalo-Universitaire International Mohammed VI inauguré à Dakhla | L'observateur L'observateur",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVDV0alNwNkRKTHFCd0p3Y1lZUmFyT29ySjEzRzk3RXR2UzJlUmVWaXZHNkFlaTlUc1JnNXE4bVpXYjlDdVhmcjR6cFlMRlJCUTl4TUxpckJjeGNkVUhqaDBVekZQOFdJUWZGQkpZenZFd28ya205XzVSNEY4M2ctSUw2R0hiUXFQaE94b0l2VkZNaU5iU1dWYlN3WEhjTkRJRHVja2RKM0tnSWFidVRJeXJQQUxsekRvYWt4QVRxYXZQX2FWQVFUVlhzcEN3UDF1Ukg3SkItZlg1eWo1T1V3MlJmb3hJSzF1NEJSdW1zZW9VN25rcXo0SkM4dW1yLU9rakRxd3NHd9IBVkFVX3lxTE5Ud041Q3pBVndUWTluRjl6cXBsSnJnLXhWOWFqRHlKS0ZtVlpmN3kzRjJ4OGdHalJVNmM1LUIxUzJsaWpqTzVwdWZ0WVRNTVFGMTJNel9n?oc=5",
-      "source": "L'observateur",
-      "category": "Monde",
-      "published": "2026-11-19T09:37:00+00:00",
+      "published": "2026-11-19T13:22:45+00:00",
       "image": null
     }
   ]
